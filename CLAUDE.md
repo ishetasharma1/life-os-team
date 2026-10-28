@@ -52,7 +52,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 **Career-specific**
 - Describe her AI work generically: "generative AI tooling" / "Generative AI / LLM tools". Never name Claude or ChatGPT in applications.
 - Every tailored CV comes with a matching cover letter; use the tailor-cv skill and its naming rules.
-- Never state a right to work, residence status or visa she hasn't confirmed (her German/EU work status is still to confirm).
+- Work rights (confirmed 28 Oct 2026): she can work in the UK and travel to Germany; she has no confirmed right to live or work in Germany or elsewhere (Ireland's Common Travel Area excepted). Never state or imply any other right to work, residence status or visa.
 - Known gaps to never fake: healthcare, banking/Sparkassen, insurance, MES/SAP, Oracle, Mittelstand, formal Agile-coach title, SC clearance (eligible and willing only).
 
 ## 4. Safety rules (never break)
