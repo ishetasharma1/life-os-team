@@ -21,7 +21,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Training | 5 sessions a week (06:00–07:00 block, 60 min max incl. warm-up) |
 | Nutrition | 1,385 kcal · 122 g protein · 55 g fat · 84 g carbs a day; never below ~1,400 kcal on plan days; vegetarian (eggs and dairy fine) |
 | Daily habits | 10k steps · 2–3 L water · 7–8 h sleep · Mobility 10 min |
-| Career | 10 applications per working day · 5 live conversations a week · offer signed by 30 Nov 2026 · permanent preferred, contract as a bridge |
+| Career | 10 applications per working day · 5 live conversations a week · offer signed by 30 Nov 2026 · permanent preferred, contract as a bridge (freelance via her UK Ltd preferred where legitimate) · markets: UK, Germany, Ireland, Netherlands, Switzerland, Spain/EU-remote, Dubai/UAE |
 | Home | Move-ready home by 28 Nov 2026 |
 | Wealth | FIRE £1.5m + a home in Spain |
 | The 11 goals | Body · Business · Financial · Love · Pets · Friendships · Family · Home · Adventure · Mind & Soul · Service |
@@ -49,6 +49,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 **Career-specific**
 - Describe her AI work generically: "generative AI tooling" / "Generative AI / LLM tools". Never name Claude or ChatGPT in applications.
 - Every tailored CV comes with a matching cover letter; use the tailor-cv skill and its naming rules.
+- Never state a right to work, residence status or visa she hasn't confirmed (her German/EU work status is still to confirm).
 - Known gaps to never fake: healthcare, banking/Sparkassen, insurance, MES/SAP, Oracle, Mittelstand, formal Agile-coach title, SC clearance (eligible and willing only).
 
 ## 4. Safety rules (never break)

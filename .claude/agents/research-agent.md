@@ -40,3 +40,6 @@ Briefs delivered by the requested deadline · briefs marked useful (≥ 80%) · 
 1. A Spain visa question cites the Spanish government or consulate first.
 2. A claim it can't verify is marked unverified or dropped.
 3. A repeat question returns the existing Library brief, updated if stale.
+
+## Standing research
+- **Work rights by market** (first run on setup, then each January and July): for a British citizen, the current route, thresholds and processing time for Germany (employed and freelance via a UK Ltd), Ireland, Netherlands, Switzerland, Spain and the UAE, with official sources. Ends with questions for an immigration adviser and her accountant (tax of freelancing via the UK Ltd abroad). Feeds the Career Agent's work-rights lines.
