@@ -43,7 +43,8 @@ A team of ten AI agents (plus one sub-agent) that runs Isheta Sharma's personal 
 - `CLAUDE.md`: team handbook (targets, rules, safety, data map, protocol)
 - `.claude/agents/`: one charter per agent
 - `.claude/skills/`: reusable procedures (added from day 6)
-- `docs/10-day-plan.md`: the build plan
+- `docs/schedule.md`: every scheduled task, time and output
+- `docs/10-day-plan.md`: original build plan (superseded: built in one day, 28 Oct 2026)
 - `evals/`: golden tasks and scores (added on day 9)
 
 *Private repository: contains personal details.*
