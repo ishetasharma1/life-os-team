@@ -92,7 +92,11 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | 11 Goals Operating System | https://app.notion.com/p/3e71ca99553d810886cff5abb1b5f0aa |
 | Standing Items & Identity Lines | https://app.notion.com/p/3e71ca99553d81a3a955f303747d979c |
 | Weekly Body Plans (parent page) | `3e71ca99553d819ba628f1c755351728` |
-| Agent Run Log · Feedback Log · Agent Outbox | *to be created on Day 2* |
+| 🤖 Agent Team (parent page) | https://app.notion.com/p/4071ca99553d810186a9ebb9fb92c0bf |
+| Agent Run Log | `collection://7f336152-e2b5-4d58-9c00-c798dccd0a4d` |
+| Feedback Log | `collection://3cd97634-a291-426a-b90e-6854b1c60230` |
+| Agent Outbox | `collection://3454181f-d803-4574-885e-a0eb0275d89a` |
+| Recruiter CRM | `collection://acd273e4-9a4f-43a2-b372-93fc4eec127f` |
 
 **Elsewhere**
 - Life OS page (her cockpit): https://claude.ai/artifact/JeUjmgfWbjdSTVxRcMd5GZ
