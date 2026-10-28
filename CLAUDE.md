@@ -107,6 +107,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 - Life OS page (her cockpit): https://claude.ai/artifact/JeUjmgfWbjdSTVxRcMd5GZ
 - Google Drive: "MASTER CVs" (base CVs) · "JOBS WITH AI SEARCH" (Target Companies Master, daily logs; folder id `166JUFyDuAi9-Te1vwifEP_QjHOt9PuNm`)
 - Google Sheet "my-accountant" (daily transactions, net worth)
+- Google Sheet "health-daily" (`1WfS22vSWK5Xgq1sdEXabsE63vlLQeES5r2Iox1VihD8`): one row a day from Apple Health via an iPhone Shortcut
 - Gmail: drafts only; job-alert emails must never be filtered out.
 
 ## 7. The team
