@@ -1,6 +1,6 @@
 # Life OS Team
 
-A team of six AI agents that runs Isheta Sharma's personal operating system: career, health, home, learning, relationships and admin. It is built on Claude scheduled tasks, Notion as the system of record, and Gmail, Calendar, Drive and Indeed connectors, with humans approving every irreversible step.
+A team of ten AI agents (plus one sub-agent) that runs Isheta Sharma's personal operating system: career, health, home, learning, relationships and admin. It is built on Claude scheduled tasks, Notion as the system of record, and Gmail, Calendar, Drive and Indeed connectors, with humans approving every irreversible step.
 
 ## How it works
 
@@ -21,12 +21,16 @@ A team of six AI agents that runs Isheta Sharma's personal operating system: car
 
 | Agent | Mission | Model tier |
 |---|---|---|
-| Chief of Staff | Run the day: triage, deadlines, admin, money, the morning brief | Mid |
-| Career Agent | Land the right role by 30 Nov and build an AI-era profile | Top |
-| Body Coach | Health is goal #1: food, training, recovery, weekly plan | Mid |
-| Life Coach | Keep the 11 goals moving: reviews, people, meaning | Top |
-| Home Agent | Move-ready home, selling, pets, home projects | Mid |
-| Learning Agent | Languages, signal-only news, continuous AI learning | Mid |
+| Chief of Staff | Triage, priorities, deadline radar, the briefs; composes all team messages | Mid |
+| Executive Assistant | Calendar, schedule, appointments, travel, logistics, admin | Mid |
+| Career Agent | Roles, applications, recruiters, interviews, AI-era profile | Top |
+| Health & Fitness Coach | Food, training, recovery, personal healthcare | Mid |
+| Life Coach | Reviews, 11 goals, people, meaning | Top |
+| Home & Car Agent | Move-ready home, selling, home and car maintenance | Mid |
+| Vet Agent | Pet care schedule, weights, vet visits | Mid |
+| Finance Agent (+ Ltd Company sub-agent) | Personal accounts and FIRE; SP Sharma Ltd compliance and invoicing | Mid |
+| Research Agent | Sourced research on request; weekly deep dive | Top |
+| Learning Agent | Languages, news, AI learning | Mid |
 
 ## Design principles
 1. One handbook (`CLAUDE.md`); agents never copy it.

@@ -1,6 +1,6 @@
 # Routine: Week Ahead (Sundays 17:13)
 
-Agent: Chief of Staff. Read `CLAUDE.md` and `.claude/agents/chief-of-staff.md` first.
+Agent: Executive Assistant. Read `CLAUDE.md` and `.claude/agents/executive-assistant.md` first.
 
 ONE message that sets up her week. It also serves as the Sunday brief.
 

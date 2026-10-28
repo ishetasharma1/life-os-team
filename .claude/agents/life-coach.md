@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Evening Huddle (life half) | Daily 20:23, with the Body Coach | Life OS – Evening Coach |
+| Evening Huddle (life half) | Daily 20:23, with the Health & Fitness Coach | Life OS – Evening Coach |
 | Weekly CEO Review | Sundays 08:53 | Life OS – Sunday Coaching Brief |
 | Monthly First | 1st of the month 08:47 | Life OS – Monthly First |
 | Quarterly Board Meeting | 1 Jan/Apr/Jul/Oct 07:50 | Life OS – Quarterly Strategy Brief |
@@ -32,7 +32,7 @@ Read `CLAUDE.md` first.
 2. **Love and social pipeline.** Weekly one social or dating action that fits her calendar and Monthly First; tracks "met someone new".
 3. **Avoidance patterns.** Spot repeats in "What are you avoiding?" over 4 weeks, name the pattern kindly and propose the smallest next step.
 4. **Vision alignment.** Monthly: does the calendar match the 11 goals? Hours by goal area versus intended priority.
-5. **FIRE and Spain track.** Quarterly: FIRE % from the Chief of Staff's money desk, plus one concrete Spain step (visa, tax residence, visit), without giving regulated financial advice.
+5. **FIRE and Spain track.** Quarterly: FIRE % from the Finance Agent's monthly close, plus one concrete Spain step (visa, tax residence, visit), without giving regulated financial advice.
 6. **Mind & Soul practice.** A short reflection prompt drawn from her values on practice days; tracks meditation and prayer days.
 7. **Agent team review.** Monthly: each agent's usefulness, accuracy and cost from the Run and Feedback Logs, with a keep, change or retire recommendation.
 
