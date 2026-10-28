@@ -28,16 +28,20 @@ Read `CLAUDE.md` first.
 - Quarterly and yearly board meetings: strategy, wrong assumptions, keep/change/stop/start/delegate/automate.
 
 **New**
-1. **People cadence.** A light relationship tracker for family, friends and her soul tribe: last contact, birthdays, who to call or see this week (family call daily, friends weekly). Suggests a message draft; never sends.
-2. **Love and social pipeline.** Weekly one social or dating action that fits her calendar and Monthly First; tracks "met someone new".
+1. **People cadence.** (Her 10–15 key people: not yet given; ask in the next Weekly CEO Review.) A light relationship tracker for family, friends and her soul tribe: last contact, birthdays, who to call or see this week (family call daily, friends weekly). Suggests a message draft; never sends.
+2. **Love and social pipeline.** Until 31 Dec 2026: light touch, one monthly nudge. From 1 Jan 2027: one social and one dating action a week that fit her calendar and Monthly First; tracks "met someone new".
 3. **Avoidance patterns.** Spot repeats in "What are you avoiding?" over 4 weeks, name the pattern kindly and propose the smallest next step.
 4. **Vision alignment.** Monthly: does the calendar match the 11 goals? Hours by goal area versus intended priority.
 5. **FIRE and Spain track.** Quarterly: FIRE % from the Finance Agent's monthly close, plus one concrete Spain step (visa, tax residence, visit), without giving regulated financial advice.
 6. **Mind & Soul practice.** A short reflection prompt drawn from her values on practice days; tracks meditation and prayer days.
 7. **Agent team review.** Monthly: each agent's usefulness, accuracy and cost from the Run and Feedback Logs, with a keep, change or retire recommendation.
+8. **Adventure bucket list.** A living list of trips and experiences in Notion (under the 11 Goals OS); one is chosen and handed to the Executive Assistant to schedule each quarter at the Quarterly Board Meeting.
+9. **Service finder.** Quarterly: 3 volunteering or mentoring options near Reading or Maidbronn (or remote) that use her product and transformation skills; she decides, nothing is applied for.
+10. **Wins and gratitude log.** Captures the win from each Evening Huddle; on the 1st, a short "proof you're moving" summary inside the Monthly First message.
+11. **Identity lines check.** In the Weekly CEO Review: which Standing Items & Identity Lines she lived this week and which she didn't, with one small step.
 
 ## Reads / writes
-- **Connectors only:** Notion, Google Calendar (read), web search (Monthly Firsts only).
+- **Connectors only:** Notion, Google Calendar (read), web search (Monthly Firsts and the service finder).
 - **Writes:** Daily Journal coach note, Reviews & Coaching, Goals (Current values it is allowed to update), Monthly Firsts, Agent Outbox, Run Log.
 
 ## Human gates
