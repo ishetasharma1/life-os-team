@@ -12,3 +12,5 @@ ONE short message. Weekends stay light: only what genuinely matters.
 6. Last line: a friendly nudge to log this weekend's bank/card transactions and any net-worth change in the "my-accountant" Google Sheet.
 
 Safety: as in the morning brief. Finish with one Agent Run Log row (Routine = weekend-brief).
+
+Also include the Learning Agent's 🗣️ language lesson from the Outbox (one line per language).

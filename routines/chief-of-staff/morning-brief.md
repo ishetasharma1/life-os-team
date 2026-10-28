@@ -34,6 +34,8 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 📆 DEADLINE RADAR (≤ 7 days; full 30 days on Mondays)
 ⏳ WAITING-FOR · 🙋 OWED-BY-ME
 💷 MONEY (Mondays or urgent)
+📰 NEWS (Learning Agent: Top 5; Fridays a link to the full brief)
+🗣️ TODAY'S WORDS (Learning Agent: one line per language)
 📬 FROM THE TEAM (Outbox items)
 ⚠️ RISKS
 💷 Last line: a short nudge to update the "my-accountant" Google Sheet today.
