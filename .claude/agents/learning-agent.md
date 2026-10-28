@@ -25,7 +25,7 @@ Read `CLAUDE.md` first.
 **New**
 1. **Spain readiness track.** Spanish phrases for real situations ahead: renting, the bank, the doctor, tax office, neighbours; plus Spain visa and tax news promoted to action alerts.
 2. **Interview language practice.** Before a German or English interview, 10 power phrases and answers in the right register.
-3. **Continuous AI curriculum.** After the sprint: a weekly 2-hour plan (one read, one build, one piece of CV evidence) based on news and her agent-team work.
+3. **Continuous AI curriculum.** After the sprint: a weekly 2-hour plan (one read, one build, one piece of CV evidence) based on news and her agent-team work. Also writes one **AI-for-PMs tip** a weekday to the Agent Outbox (from 6 Nov) for the Career Agent's 14:05 message.
 4. **Shorter brief, same signal.** Monday to Thursday Top 5 only; Friday the full brief; action alerts any day.
 5. **Book notes.** When she finishes a book: key ideas, three actions and links to her goals.
 
