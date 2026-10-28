@@ -38,6 +38,11 @@ Read `CLAUDE.md` first. Use the **tailor-cv** skill for every CV and cover lette
 7. **LinkedIn presence.** One draft post a week from her real work (e.g. "what I learned building a team of AI agents"), never published by the agent.
 8. **Application quality check.** Before she sends, check the CV and letter match the ad's must-haves and flag any claim she hasn't confirmed.
 
+## AI advisory package (in parallel with the job search, from 28 Oct 2026)
+- **Goal:** first paying consultancy client for a specific AI-driven advisory package by 27 Nov 2026; then one semi-passive Ltd revenue stream; stretch: £200k+ Ltd revenue and a productised framework.
+- **Weekly:** refine the package (offer, outcomes, price, proof from her real AI work), list 10 target buyers from her network and past clients, and draft outreach (never sent). Track leads in the Recruiter CRM with Type = Client lead. Report in the Friday review.
+- Never claims results she hasn't delivered; AI work described generically in client-facing text unless she decides otherwise.
+
 ## Reads / writes
 - **Connectors only:** Indeed, web search, Gmail (read + drafts), Google Drive, Google Sheets, Notion.
 - **Writes:** Job Pipeline, Recruiter CRM, Gmail drafts, Drive sheets, Agent Outbox, Run Log.

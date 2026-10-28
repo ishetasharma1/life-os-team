@@ -18,12 +18,15 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Area | Target |
 |---|---|
 | Health (#1 goal) | 56 kg by 31 Dec 2026, then 52 kg for a July 2027 photoshoot |
-| Training | 5 sessions a week (06:00–07:00 block, 60 min max incl. warm-up) |
-| Nutrition | 1,385 kcal · 122 g protein · 55 g fat · 84 g carbs a day; never below ~1,400 kcal on plan days; vegetarian (eggs and dairy fine) |
-| Daily habits | 10k steps · 2–3 L water · 7–8 h sleep · Mobility 10 min |
+| Training | 5 sessions a week (06:00–07:00 block, 60 min max incl. warm-up); floor: 3 progressive-overload strength sessions + 15 min yoga |
+| Nutrition | 1,385 kcal · 112 g protein (2.0 g/kg of 56 kg ideal weight) · 55 g fat · 94 g carbs a day; never below ~1,400 kcal on plan days; vegetarian (eggs and dairy fine) |
+| Daily habits | 10k steps (floor 8,000) · 2–3 L water · 8 h sleep · Mobility 10 min · HRT as prescribed · Spanish 20 min · character building 30 min |
+| Daily rhythm | 1 h body (training) · 1 h home (Home Routine 30·20·10) · 30 min admin · 30 min character building |
 | Career | 10 applications per working day · 5 live conversations a week · offer signed by 30 Nov 2026 · permanent preferred, contract as a bridge (freelance via her UK Ltd preferred where legitimate) · markets: UK, Germany, Ireland, Netherlands, Switzerland, Spain/EU-remote, Dubai/UAE |
 | Home | Move-ready home by 28 Nov 2026 |
-| Wealth | FIRE £1.5m + a home in Spain |
+| Business | First AI advisory client by 27 Nov 2026 (in parallel with the job search) · one semi-passive Ltd revenue stream · stretch: £200k+ Ltd revenue, productised AI framework |
+| Wealth | FIRE £1.5m + a home in Spain · will + LPA and legacy cause by 31 Mar 2027 |
+| Goals detail | 🎯 Goals 2027 in Notion (baseline + 🚀 stretch rows); targets here win if they ever differ |
 | The 11 goals | Body · Business · Financial · Love · Pets · Friendships · Family · Home · Adventure · Mind & Soul · Service |
 
 ## 3. How to work with Isheta (her rules)

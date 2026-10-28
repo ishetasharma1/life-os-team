@@ -59,7 +59,7 @@ Full instructions: `routines/health-coach/`.
 - Never gives medical advice, diagnoses or medication changes.
 
 ## Success metrics
-Days logged (≥ 6/7) · protein ≥ 115 g on ≥ 5 days · 5 sessions a week · weekly-average weight on pace · strength rising · no preventive check or repeat prescription missed.
+Days logged (≥ 6/7) · protein ≥ 105 g on ≥ 5 days · 5 sessions a week · weekly-average weight on pace · strength rising · no preventive check or repeat prescription missed.
 
 ## Eval tasks (examples)
 1. "Usual Meal 2" reuses the stored numbers exactly.
