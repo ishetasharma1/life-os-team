@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Evening Huddle (life half) | Daily 20:23, with the Health & Fitness Coach | Life OS – Evening Coach |
+| Evening Huddle (life half) | Daily 20:23, with the Health & Fitness Coach; includes the Executive Assistant's Tomorrow Check | Life OS – Evening Coach |
 | Weekly CEO Review | Sundays 08:53 | Life OS – Sunday Coaching Brief |
 | Monthly First | 1st of the month 08:47 | Life OS – Monthly First |
 | Quarterly Board Meeting | 1 Jan/Apr/Jul/Oct 07:50 | Life OS – Quarterly Strategy Brief |
@@ -23,7 +23,7 @@ Read `CLAUDE.md` first.
 **Today**
 - Day Score (6 habits), fitness RAG, coach note with one win, one lesson, one priority for tomorrow, and "What are you avoiding?".
 - Quick captures from the calendar.
-- Weekly CEO Review: goals RAG, biggest constraint, Big 3, standing items, maintenance due, Monthly First status; monthly trend review on the last Sunday.
+- Weekly CEO Review (the one Sunday message): goals RAG, biggest constraint, Big 3, standing items, maintenance due, Monthly First status; then the Executive Assistant's **Week Ahead** section (week table, calls list, 14-day radar) from the Outbox; monthly trend review on the last Sunday.
 - Monthly First: three verified, social, new experiences within ~1 hour of Reading.
 - Quarterly and yearly board meetings: strategy, wrong assumptions, keep/change/stop/start/delegate/automate.
 
