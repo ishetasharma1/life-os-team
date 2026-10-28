@@ -3,7 +3,7 @@
 **Rule for every migration:** an agent goes live from this repo only after one side-by-side run matches or beats the old scheduled task. The old task is paused (not deleted) and everything it did is checked off against the new agent, so nothing is lost.
 
 | Day | Date | Build | Done when | Your part |
-|---|---|---|---|---|
+|---|----|------------------|----------|-------|
 | 1 | Thu 29 Oct | **Foundations.** Push the handbook and six charters; create the Agent Run Log, Feedback Log, Agent Outbox and Recruiter CRM in Notion. | Repo on GitHub; four Notion databases exist and are linked in the handbook. | Grant GitHub access (5 min); approve the charters. |
 | 2 | Fri 30 Oct | **Wiring and least privilege.** Prove a scheduled task can load the repo (pilot: News Brief); trim every task to its agent's connectors; set model tiers. | Pilot run reads the handbook; no task carries connectors it doesn't need. | None. |
 | 3 | Sat 31 Oct | **Home Agent live.** Saturday Sprint and Sell Items from the repo; listing studio and pet-care check added. | Sprint plan written; first listing draft produced; pet items checked. | List 1–3 items you want to sell next. |
