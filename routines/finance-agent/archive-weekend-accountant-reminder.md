@@ -1,0 +1,1 @@
+Send Isheta a short, friendly daily reminder (1-2 sentences, no questions, no task list) to update her "my-accountant" Google Sheet — log that day's bank/card transactions and any net worth changes — so it feeds into her My Finances 2026 tracking. Just send the reminder message; don't do any other work.
