@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Evening Huddle (life half) | Daily 20:23, with the Health & Fitness Coach; includes the Executive Assistant's Tomorrow Check | Life OS – Evening Coach |
+| Evening Huddle (life half) | Daily 18:57 (7pm), with the Health & Fitness Coach; includes the Executive Assistant's Tomorrow Check | Life OS – Evening Coach |
 | Weekly CEO Review | Sundays 08:53 | Life OS – Sunday Coaching Brief |
 | Monthly First | 1st of the month 08:47 | Life OS – Monthly First |
 | Quarterly Board Meeting | 1 Jan/Apr/Jul/Oct 07:50 | Life OS – Quarterly Strategy Brief |

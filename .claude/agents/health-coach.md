@@ -13,7 +13,7 @@ Read `CLAUDE.md` first; all targets live there. Not a doctor: never diagnose, ne
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Evening Huddle (health half) | Daily 20:23, with the Life Coach | Evening Fitness Coach + Evening Coach |
+| Evening Huddle (health half) | Daily 18:57 (7pm), with the Life Coach | Evening Fitness Coach + Evening Coach |
 | Weekly Body Plan | Thursdays 16:49 | Life OS – Weekly Body Plan |
 | Weekly Fitness Review | Sundays, inside the Evening Huddle | (part of Evening Fitness Coach) |
 | Healthcare check | 1st and 15th of the month (Outbox) | *new* |

@@ -1,7 +1,7 @@
 # Setting up "health-daily" (about 20 minutes, once)
 
 Sheet (created 28 Oct 2026): https://docs.google.com/spreadsheets/d/1WfS22vSWK5Xgq1sdEXabsE63vlLQeES5r2Iox1VihD8/edit
-Columns: Date · Weight kg · Body fat % · Steps · Sleep h · Resting HR · Workout min. The iPhone Shortcut adds one row a day at 20:00, before the 20:23 Evening Huddle.
+Columns: Date · Weight kg · Body fat % · Steps · Sleep h · Resting HR · Workout min. The iPhone Shortcut adds one row a day at 18:45, before the 18:57 Evening Huddle.
 
 ## 1. Devices → Apple Health
 - Smart scale app (Withings, Renpho, Eufy…): Settings → Apple Health → allow weight and body fat.
@@ -25,7 +25,7 @@ function doPost(e) {
 
 Deploy → New deployment → gear icon → Web app → Execute as: Me · Who has access: Anyone → Deploy → Authorise (Advanced → Go to project → Allow) → copy the Web app URL. The secret word stops anyone else with the link from writing to your sheet.
 
-## 3. The Shortcut (Shortcuts app → Automation → + → Time of Day 20:00, Daily → Run Immediately → New Blank Automation)
+## 3. The Shortcut (Shortcuts app → Automation → + → Time of Day 18:45, Daily → Run Immediately → New Blank Automation)
 1. Find Health Samples: Type Weight · Start Date is today · Sort Latest First · Limit 1.
 2. Find Health Samples: Type Body Fat Percentage · today · Latest First · Limit 1.
 3. Find Health Samples: Type Steps · today → Calculate Statistics: Sum.

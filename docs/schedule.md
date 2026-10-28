@@ -22,7 +22,7 @@ Messages to Isheta: ≤ 4 a day. ✉️ = sends a message · 📬 = Outbox only 
 | Daily 18:07 | Executive Assistant – Tomorrow Check | EA | 📬 |
 | Sun 18:31 | Vet Agent – Pet Care Check | Vet | 📬 |
 | Daily 18:40 | Chief of Staff – Thought Inbox | CoS | 📬 |
-| Daily 20:23 | Evening Huddle (Health + Life Coach) | Health + Life | ✉️ |
+| Daily 18:57 (7pm) | Evening Huddle (Health + Life Coach) | Health + Life | ✉️ |
 | 1 Jan/Apr/Jul/Oct 07:50 · 28 Dec 07:55 | Quarterly · Yearly Board Meeting | Life Coach | ✉️ |
 
 Paused (kept, never deleted): Nightly Chief of Staff Briefing, Daily Job Search, Evening Fitness Coach.
