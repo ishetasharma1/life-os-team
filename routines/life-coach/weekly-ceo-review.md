@@ -41,7 +41,7 @@ Next week's Big 3:
 💞 Social & love (from 1 Jan 2027): one social and one dating action that fit next week's calendar and the Monthly First. Until then, nothing here.
 🗓️ WEEK AHEAD (from the Executive Assistant): include the Agent Outbox item "WEEK AHEAD — <date>" (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a): the week table, calls list, 14-day radar, trips and any calendar changes it made. Then mark it and every Queued "This week" item it lists "Included in message".
 🗣️ LANGUAGES: the Learning Agent's Sunday Outbox item (weekly language review and mini-quiz). If she replies with quiz answers, mark them and explain mistakes briefly.
-🐾 PETS: the Vet Agent's latest Outbox item, in two lines, including any question it has for her (e.g. the pets' daily food amounts). If she answers, record it on the pets page in Notion for the Vet Agent.
+🐾 PETS: the Vet Agent's latest Outbox item, in two lines, including any question it has for her (e.g. the pets' daily food amounts). If she answers, record it in a "Daily food" section of the "5. Pets" area page for the Vet Agent. Record her key people (if she gives them) on the "6. Friendships" and "7. Family" area pages.
 💷 One line: remind her to update her "my-accountant" Google Sheet with this weekend's transactions.
 
 STEP 3 — MONTHLY REVIEW (last Sunday only). Stop looking at single weeks. For each of the 11 areas, compare THIS month with the previous 1–2 months (from journal, goals, pipeline, previous monthly reviews), e.g.

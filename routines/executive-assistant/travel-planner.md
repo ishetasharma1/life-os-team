@@ -1,6 +1,6 @@
 # Routine: Travel Planner (on request, or when a trip appears in the calendar or email)
 
-Agent: Executive Assistant. Read `CLAUDE.md` and `.claude/agents/executive-assistant.md` first. Outputs go to a Notion page under the Agent Team page ("Trip — [destination] [dates]") and an Outbox item; no message.
+Agent: Executive Assistant. Read `CLAUDE.md` and `.claude/agents/executive-assistant.md` first. Outputs go to a Notion sub-page of the "9. Adventure" area page ("Trip — [destination] [dates]"); for Germany drives, update the existing "Germany Drives with the Dogs" page under "7. Family" instead of creating a new one and an Outbox item; no message.
 
 ## Every trip
 - Options and timings (Booking.com search for stays; web search for ferries, flights, trains). Never book, pay or enter her details.
