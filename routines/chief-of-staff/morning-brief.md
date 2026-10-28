@@ -26,6 +26,7 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 ## Output (this order, short)
 🌅 GOOD MORNING — [date]
 🎯 TOP 3 TODAY (1 = the Evening Huddle priority, then the two most consequential items)
+💪 One line from the Health & Fitness Coach's Outbox item: today's session · weigh in before breakfast
 📧 INBOX (🔴/🟠 one-liners; 🟡/⚪ counts)
 ✉️ DRAFTS READY IN GMAIL
 📅 TODAY — prep needed (with prep packs) · 🗓️ calendar changes made
