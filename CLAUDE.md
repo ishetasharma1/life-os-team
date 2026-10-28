@@ -102,6 +102,26 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Agent Outbox | `collection://3454181f-d803-4574-885e-a0eb0275d89a` |
 | Recruiter CRM | `collection://acd273e4-9a4f-43a2-b372-93fc4eec127f` |
 | 📚 Research Library | `collection://ca567d84-09c7-4a6d-8d5e-ec7341c1442f` |
+| 🍳 Recipes (her recipe book) | `collection://9fe86e05-d12f-4101-998a-ab1d3b8e19a0` |
+| 🧠 Inbox · Tasks · Knowledge (Thought Inbox) | Inbox https://app.notion.com/p/3c71ca99553d8095abe5d79cf561c3d3 · Tasks https://app.notion.com/p/3c71ca99553d809d9a2af73a399bfb63 · Knowledge https://app.notion.com/p/15316006deff4b20b52669532c2f9d05 |
+| AI by Department: learning map | https://app.notion.com/p/4051ca99553d810e80efea7551a102c9 |
+
+**The 11 area pages (put new notes and sub-pages here, never a new top-level page)**
+
+| Area | Page | Used for |
+|---|---|---|
+| 1. Body & Training | https://app.notion.com/p/3e71ca99553d81fa819bc05407364543 | Weekly Body Plans; the private Health log sub-page |
+| 2. Career & SP Sharma Ltd | https://app.notion.com/p/3e71ca99553d8130b76add250163e3af | Job Pipeline; AI advisory package notes |
+| 3. Money & FIRE | https://app.notion.com/p/3e71ca99553d81d9880de6faa730fbe7 | Monthly close notes, moving-abroad money pack |
+| 4. Love & Partnership | https://app.notion.com/p/3e71ca99553d812180cedc3fa90911ca | Social and dating actions |
+| 5. Pets | https://app.notion.com/p/3e71ca99553d81d58cc7ccff1050a112 | Pets' daily food amounts, emergency card, pet travel |
+| 6. Friendships | https://app.notion.com/p/3e71ca99553d819da7c0c76d970ddef0 | Key people list (friends) |
+| 7. Family | https://app.notion.com/p/3e71ca99553d8181be9ddaecb0c13ee7 | Key people (family); "Germany Drives with the Dogs" page |
+| 8. Home | https://app.notion.com/p/3e71ca99553d810da07ee001f25c6431 | Move-Ready, Home Routine, maintenance notes |
+| 9. Adventure | https://app.notion.com/p/3e71ca99553d81d097eed74ab1f36050 | Adventure bucket list, trip pages |
+| 10. Mind & Soul | https://app.notion.com/p/3e71ca99553d8179aaf1d2e0b0f6ceb7 | Character-building notes |
+| 11. Service | https://app.notion.com/p/3e71ca99553d81db84abd70ad5ac179f | Legacy cause, giving |
+
 
 **Elsewhere**
 - Life OS page (her cockpit): https://claude.ai/artifact/JeUjmgfWbjdSTVxRcMd5GZ
