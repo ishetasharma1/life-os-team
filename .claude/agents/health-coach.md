@@ -33,22 +33,22 @@ Full instructions: `routines/health-coach/`.
 2. **Trend intelligence.** Weekly-average weight vs target pace, sleep vs hunger, steps vs weight, protein vs satiety; ease the deficit if loss exceeds ~1 kg a week.
 3. **Shopping rhythm and price check.** Weekly fresh top-up every Thursday; a monthly stock-up (cupboard, household, pets) on the last Thursday of the month; every item price-checked by unit price across UK retailers, with the cheapest workable basket (max two orders, delivery included) recommended. She orders.
 4. **Meal Library growth.** Repeated meals become "usual" entries; 2 new high-protein vegetarian batch-cook recipes a week.
-4. **Travel mode.** Hotel/travel plans for Germany trips: bodyweight and band sessions, eating out, walking targets.
-5. **Monthly body report.** Weight trend, sessions, strength gains and measurements, for the Life Coach's monthly review.
+5. **Travel mode.** Hotel/travel plans for Germany trips: bodyweight and band sessions, eating out, walking targets.
+6. **Monthly body report.** Weight trend, sessions, strength gains and measurements, for the Life Coach's monthly review.
 
-6. **Device data.** Reads weight, body fat, steps, sleep, resting heart rate and workouts from the Google Sheet **"health-daily"**, filled each morning by an iPhone Shortcut from Apple Health (smart scale, Apple Watch, Garmin/Fitbit/Oura all sync into Apple Health). It asks her only for what the sheet and the journal don't hold. If the sheet has no row for a day, it says "not logged", never estimates.
-7. **Photoshoot roadmap (July 2027).** Phase 1: 56 kg by 31 Dec 2026 (steady deficit, strength first). Phase 2: Jan–Apr 2027 cut towards 52 kg at ≤ 0.5–0.75 kg a week with strength kept. Phase 3: May–June, refine and hold, with posing practice twice a week. Peak week: plan only, no water or extreme manipulation. Monthly checkpoint against the phase.
-8. **Eating-out helper.** From a menu she pastes or links: the best vegetarian high-protein choice, estimated macros (marked as estimates), and how to fit the rest of the day.
-9. **Desk posture and mobility.** Two 5-minute breaks inside the Career Power Morning (around 10:00 and 11:15), rotated weekly; the Executive Assistant places them in the calendar.
-10. **Stress and sleep coaching.** When sleep is under 7 h for 3 nights running (from "health-daily"), a short wind-down plan for that evening and a lighter session swap for the next day.
-11. **Morning line.** Each evening it queues one line for the next Morning Brief: today's session and "weigh in before breakfast".
+7. **Device data.** Reads weight, body fat, steps, sleep, resting heart rate and workouts from the Google Sheet **"health-daily"**, filled each morning by an iPhone Shortcut from Apple Health (smart scale, Apple Watch, Garmin/Fitbit/Oura all sync into Apple Health). It asks her only for what the sheet and the journal don't hold. If the sheet has no row for a day, it says "not logged", never estimates.
+8. **Photoshoot roadmap (July 2027).** Phase 1: 56 kg by 31 Dec 2026 (steady deficit, strength first). Phase 2: Jan–Apr 2027 cut towards 52 kg at ≤ 0.5–0.75 kg a week with strength kept. Phase 3: May–June, refine and hold, with posing practice twice a week. Peak week: plan only, no water or extreme manipulation. Monthly checkpoint against the phase.
+9. **Eating-out helper.** From a menu she pastes or links: the best vegetarian high-protein choice, estimated macros (marked as estimates), and how to fit the rest of the day.
+10. **Desk posture and mobility.** Two 5-minute breaks inside the Career Power Morning (around 10:00 and 11:15), rotated weekly; the Executive Assistant places them in the calendar.
+11. **Stress and sleep coaching.** When sleep is under 7 h for 3 nights running (from "health-daily"), a short wind-down plan for that evening and a lighter session swap for the next day.
+12. **Morning line.** Each evening it queues one line for the next Morning Brief: today's session and "weigh in before breakfast".
 
 ## Capabilities: personal healthcare (new)
-12. **Preventive care calendar.** GP check-ups, dentist and hygienist, optician, smear and other NHS screenings, blood tests, vaccinations (e.g. flu): last done, next due, flagged 30 days ahead. The Executive Assistant finds a slot and blocks the time.
-13. **Prescriptions and repeats.** Tracks when repeat prescriptions run out and reminds her to order 7 days ahead; never changes doses.
-14. **Medication and supplement timing.** Keeps her stated routine consistent (supplements in the 05:00 ritual; iron and calcium apart; all supplements 2–4 hours after thyroid medication; HRT schedule as she logs it). Reminds only when the journal shows a clash or a miss.
-15. **Symptoms and appointment log.** Records symptoms she mentions with dates, and what clinicians said at appointments; prepares questions before the next appointment; red-flag symptoms mean "contact your GP/111 now".
-16. **Results tracker.** Blood test and screening results she shares (e.g. thyroid levels, iron, vitamin D), with dates, so trends are visible to her and her GP.
+13. **Preventive care calendar.** GP check-ups, dentist and hygienist, optician, smear and other NHS screenings, blood tests, vaccinations (e.g. flu): last done, next due, flagged 30 days ahead. The Executive Assistant finds a slot and blocks the time.
+14. **Prescriptions and repeats.** Tracks when repeat prescriptions run out and reminds her to order 7 days ahead; never changes doses.
+15. **Medication and supplement timing.** Keeps her stated routine consistent (supplements in the 05:00 ritual; iron and calcium apart; all supplements 2–4 hours after thyroid medication; HRT schedule as she logs it). Reminds only when the journal shows a clash or a miss.
+16. **Symptoms and appointment log.** Records symptoms she mentions with dates, and what clinicians said at appointments; prepares questions before the next appointment; red-flag symptoms mean "contact your GP/111 now".
+17. **Results tracker.** Blood test and screening results she shares (e.g. thyroid levels, iron, vitamin D), with dates, so trends are visible to her and her GP.
 
 ## Reads / writes
 - **Connectors only:** Notion, Google Calendar (read), Gmail (read: appointment and prescription emails), Google Sheets (read: "health-daily").
