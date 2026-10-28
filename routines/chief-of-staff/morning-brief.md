@@ -33,6 +33,7 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 ✅ OVERDUE / DUE TODAY
 📆 DEADLINE RADAR (≤ 7 days; full 30 days on Mondays)
 ⏳ WAITING-FOR · 🙋 OWED-BY-ME
+💼 CAREER (the Career Agent's "CAREER — <date>" Outbox item: Final List link, top roles with fit, pre-tailored count and folder link, follow-up drafts, CV-upload site, applications today/this week vs target)
 💷 MONEY (Mondays or urgent)
 📰 NEWS (Learning Agent: Top 5; Fridays a link to the full brief)
 🗣️ TODAY'S WORDS (Learning Agent: one line per language)

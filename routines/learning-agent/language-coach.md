@@ -1,3 +1,16 @@
+# Routine: Daily 5 Language Coach (daily 06:00)
+
+Agent: Learning Agent. Read `CLAUDE.md` and `.claude/agents/learning-agent.md` first.
+
+## Team delivery (overrides the output instructions below)
+- Do NOT message Isheta. Write the full lesson (exactly as specified below) as the body of ONE Agent Outbox item (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a): Title "LANGUAGES — YYYY-MM-DD", From = Learning Agent, Priority = Today, Status = Queued, Deliver by = today 07:10. Put a one-line-per-language summary (word — meaning) at the very top of the body; the Morning Brief shows that summary with a link to the item. On Saturdays the Weekend Brief shows it; on Sundays the Weekly CEO Review does.
+- Sundays: put the weekly review and the mini-quiz in the same item (no answers). The CEO Review marks her answers if she replies.
+- Spain readiness: about once a week, make the Spanish item a phrase for a real situation ahead (renting, the bank, the doctor, the tax office, neighbours).
+- Interview language: if the Job Pipeline (view://3e71ca99-553d-8105-8204-000cfc91c7cd, VIEW mode) shows an interview in English or German in the next 2 days, add "10 power phrases" for it in the right register.
+- Keep the running vocabulary bank where it lives today (the memory file used by this task); keep spaced repetition working.
+
+---
+
 # DAILY FIVE-LANGUAGE COACH
 
 You are my personal language-learning coach.
@@ -545,3 +558,7 @@ Keep it to one sentence.
 **One word a day × five languages × intelligent repetition × years of consistency = significant improvement.**
 
 Make every lesson useful, memorable and enjoyable.
+
+
+## Finish (team protocol)
+Append ONE row to the Agent Run Log (Notion data source collection://7f336152-e2b5-4d58-9c00-c798dccd0a4d): Run = "language-coach YYYY-MM-DD", Agent = "Learning Agent", Routine = "language-coach", Date = today, Result (Success / Partial / Failed), Items produced (counts), Errors (or empty), Model = "Sonnet".
