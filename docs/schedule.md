@@ -19,10 +19,12 @@ Messages to Isheta: ≤ 4 a day. ✉️ = sends a message · 📬 = Outbox only 
 | 1st 08:47 | Life Coach – Monthly First | Life Coach | ✉️ |
 | Daily 14:05 | Career Agent – Midday (AI Sprint, then scoreboard; weekends silent from 6 Nov) | Career | ✉️ |
 | Thu 16:49 | Health Coach – Weekly Body Plan (+ recipe of the week) | Health | ✉️ |
+| Fri 16:22 | Team Performance – Weekly Review (monthly scorecard first Friday) | Team Performance | 📬 |
 | Daily 18:07 | Executive Assistant – Tomorrow Check | EA | 📬 |
 | Sun 18:31 | Vet Agent – Pet Care Check | Vet | 📬 |
 | Daily 18:40 | Chief of Staff – Thought Inbox | CoS | 📬 |
 | Daily 18:57 (7pm) | Evening Huddle (Health + Life Coach) | Health + Life | ✉️ |
+| Daily 21:17 | Team Performance – Apply Approved Changes (silent if none) | Team Performance | 📬 |
 | 1 Jan/Apr/Jul/Oct 07:50 · 28 Dec 07:55 | Quarterly · Yearly Board Meeting | Life Coach | ✉️ |
 
 Paused (kept, never deleted): Nightly Chief of Staff Briefing, Daily Job Search, Evening Fitness Coach.

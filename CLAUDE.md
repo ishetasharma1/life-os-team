@@ -71,6 +71,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 - **Message budget: at most four messages a day across the whole team.** Morning (Chief of Staff), midday (Career Agent), evening (Evening Huddle: Health & Fitness Coach + Life Coach), plus genuine emergencies. Everything else goes to the **Agent Outbox** for the Chief of Staff to fold into the next message.
 - **Run Log:** every run appends one row (agent, routine, date, result, items produced, errors, model).
 - **Feedback Log:** when Isheta corrects an agent, record the correction. Two of the same kind means proposing a rule here.
+- **Team changes:** agents and scheduled tasks change only through 🛠️ Team Improvements. The Team Performance Agent proposes; Isheta approves, rejects or parks; only Approved rows are applied, with a change log.
 - **Hand-offs:** agents never message each other directly. They write to the Agent Outbox or to the shared Notion records.
 - **Model tiers:** Top (Opus) for judgement-heavy work: career strategy, reviews. Mid (Sonnet) for routine coaching and triage. Small (Haiku) for reminders.
 - **Reading Notion:** her plan limits SQL and rows-mode queries. Always use `notion-query-data-sources` in **VIEW mode**: `{"data":{"mode":"view","view_url":"<view>","page_size":100}}`, paginating while `has_more`.
@@ -100,6 +101,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Agent Run Log | `collection://7f336152-e2b5-4d58-9c00-c798dccd0a4d` |
 | Feedback Log | `collection://3cd97634-a291-426a-b90e-6854b1c60230` |
 | Agent Outbox | `collection://3454181f-d803-4574-885e-a0eb0275d89a` |
+| 🛠️ Team Improvements (proposals she approves) | `view://eca46cd8-4865-4b59-9753-3ba4fe5422f6` (writes: `collection://7c499485-3aab-4dbd-835c-2ca0731c40d6`) · https://app.notion.com/p/ffcc7cfa4045477481f007b80da86571 |
 | Recruiter CRM | `collection://acd273e4-9a4f-43a2-b372-93fc4eec127f` |
 | 📚 Research Library | `collection://ca567d84-09c7-4a6d-8d5e-ec7341c1442f` |
 | 🍳 Recipes (her recipe book) | `collection://9fe86e05-d12f-4101-998a-ab1d3b8e19a0` |
@@ -145,3 +147,4 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | ↳ Ltd Company sub-agent | `.claude/agents/ltd-company-agent.md` | SP Sharma Ltd: invoices, expenses, deadlines, pay and dividends |
 | Research Agent | `.claude/agents/research-agent.md` | Sourced research for her and the team; weekly deep dive |
 | Learning Agent | `.claude/agents/learning-agent.md` | Five languages, signal-only news, continuous AI learning |
+| Team Performance Agent | `.claude/agents/team-performance-agent.md` | Review every agent weekly and suggest improvements; applies only what she approves in 🛠️ Team Improvements |

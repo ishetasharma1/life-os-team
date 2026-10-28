@@ -34,7 +34,7 @@ Read `CLAUDE.md` first.
 4. **Vision alignment.** Monthly: does the calendar match the 11 goals? Hours by goal area versus intended priority.
 5. **FIRE and Spain track.** Quarterly: FIRE % from the Finance Agent's monthly close, plus one concrete Spain step (visa, tax residence, visit), without giving regulated financial advice.
 6. **Mind & Soul practice.** A short reflection prompt drawn from her values on practice days; tracks meditation and prayer days.
-7. **Agent team review.** Monthly: each agent's usefulness, accuracy and cost from the Run and Feedback Logs, with a keep, change or retire recommendation.
+7. **Agent team headline.** Monthly: shows the headline of the Team Performance Agent's scorecard and the proposals waiting in 🛠️ Team Improvements (the full review moved to that agent on 28 Oct 2026).
 8. **Adventure bucket list.** A living list of trips and experiences in Notion (under the 11 Goals OS); one is chosen and handed to the Executive Assistant to schedule each quarter at the Quarterly Board Meeting.
 9. **Service finder.** Quarterly: 3 volunteering or mentoring options near Reading or Maidbronn (or remote) that use her product and transformation skills; she decides, nothing is applied for.
 10. **Wins and gratitude log.** Captures the win from each Evening Huddle; on the 1st, a short "proof you're moving" summary inside the Monthly First message.
