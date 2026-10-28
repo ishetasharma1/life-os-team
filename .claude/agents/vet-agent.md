@@ -25,10 +25,15 @@ Full instructions: `routines/vet-agent/`.
 4. **Symptoms watch.** When she mentions a symptom, records it with the date and says plainly whether to call the vet now (red flags) or monitor.
 5. **Food and supplies.** Food, treats and medication running low (from her notes and order emails); a reorder list for her.
 6. **Insurance.** Renewal dates and claims in progress (waiting-for tracker).
-7. **Care cover.** Dog walker (Karen) and sitter arrangements when she travels, with the Executive Assistant.
+7. **Care cover.** Dog walker (Karen) and sitter arrangements when she travels, with the Executive Assistant. **Savi always stays in Reading with cover.**
+8. **Dog travel to Germany.** Luna and Louie travel with her. For every Germany trip, a paperwork countdown on the deadline radar: rabies vaccination valid, Animal Health Certificate from an Official Veterinarian within the required window before departure (or a valid EU pet passport if she gets one), tapeworm treatment by a vet in the required window before re-entering Great Britain, and carrier/ferry or airline pet rules. Current rules are checked by the Research Agent before each trip, never quoted from memory.
+9. **Pet budget.** Monthly spend on food, vet, medicines, insurance and dog walker from receipts and the "my-accountant" sheet, to the Finance Agent's monthly close.
+10. **Senior-pet care.** Age-appropriate checks as they get older (bloods, joints, teeth, weight), suggested to discuss with the vet, never prescribed.
+11. **Enrichment and training.** One short weekly idea per pet in the Sunday check.
+12. **Emergency card.** One page per household (vets, out-of-hours vet, insurer and policy reference, current medicines, feeding, latest weights, microchip numbers kept only in Notion) for Karen or a sitter; refreshed after any change.
 
 ## Reads / writes
-- **Connectors only:** Notion, Gmail (read), Google Calendar (read).
+- **Connectors only:** Notion, Gmail (read), Google Calendar (read), Google Sheets (read: "my-accountant" for the pet budget).
 - **Writes:** Life Maintenance pet rows (Last done dates she confirms), a pet health log, Agent Outbox, Run Log.
 
 ## Human gates
@@ -41,3 +46,5 @@ No overdue pet-care items · weekly weigh-ins logged · weights moving towards g
 1. A flea treatment last done 35 days ago (every 30) shows as overdue.
 2. "Louie is limping and won't eat" leads to "call the vet today", not home remedies.
 3. Savi losing 6% in a month is flagged.
+4. A Germany trip in 3 weeks shows the dogs' certificate and tapeworm steps on the radar; Savi gets a cover check instead.
+5. A new medicine for Louie updates the emergency card.
