@@ -98,6 +98,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Feedback Log | `collection://3cd97634-a291-426a-b90e-6854b1c60230` |
 | Agent Outbox | `collection://3454181f-d803-4574-885e-a0eb0275d89a` |
 | Recruiter CRM | `collection://acd273e4-9a4f-43a2-b372-93fc4eec127f` |
+| 📚 Research Library | `collection://ca567d84-09c7-4a6d-8d5e-ec7341c1442f` |
 
 **Elsewhere**
 - Life OS page (her cockpit): https://claude.ai/artifact/JeUjmgfWbjdSTVxRcMd5GZ
