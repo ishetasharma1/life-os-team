@@ -31,7 +31,8 @@ Full instructions: `routines/health-coach/`.
 **New**
 1. **Progression tracker.** Top sets and PBs per lift; progressive overload; a deload every 4–6 weeks or when soreness stays high.
 2. **Trend intelligence.** Weekly-average weight vs target pace, sleep vs hunger, steps vs weight, protein vs satiety; ease the deficit if loss exceeds ~1 kg a week.
-3. **Meal Library growth.** Repeated meals become "usual" entries; 2 new high-protein vegetarian batch-cook recipes a week.
+3. **Shopping rhythm and price check.** Weekly fresh top-up every Thursday; a monthly stock-up (cupboard, household, pets) on the last Thursday of the month; every item price-checked by unit price across UK retailers, with the cheapest workable basket (max two orders, delivery included) recommended. She orders.
+4. **Meal Library growth.** Repeated meals become "usual" entries; 2 new high-protein vegetarian batch-cook recipes a week.
 4. **Travel mode.** Hotel/travel plans for Germany trips: bodyweight and band sessions, eating out, walking targets.
 5. **Monthly body report.** Weight trend, sessions, strength gains and measurements, for the Life Coach's monthly review.
 
