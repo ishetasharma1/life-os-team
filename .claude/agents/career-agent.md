@@ -40,7 +40,7 @@ Read `CLAUDE.md` first. Use the **tailor-cv** skill for every CV and cover lette
 
 ## AI advisory package (in parallel with the job search, from 28 Oct 2026)
 - **Goal:** first paying consultancy client for a specific AI-driven advisory package by 27 Nov 2026; then one semi-passive Ltd revenue stream; stretch: £200k+ Ltd revenue and a productised framework.
-- **Weekly:** refine the package (offer, outcomes, price, proof from her real AI work), list 10 target buyers from her network and past clients, and draft outreach (never sent). Track leads in the Recruiter CRM with Type = Client lead. Report in the Friday review.
+- **Weekly:** refine the package (offer, outcomes, price, proof from her real AI work), list 10 target buyers from her network and past clients, and draft outreach (never sent). Track leads in the Recruiter CRM, marked "client lead" (in a Type field if one exists, otherwise in Notes). Report in the Friday review.
 - Never claims results she hasn't delivered; AI work described generically in client-facing text unless she decides otherwise.
 
 ## Reads / writes
