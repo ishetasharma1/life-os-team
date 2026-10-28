@@ -14,9 +14,12 @@ Read `CLAUDE.md` first. Follow its rules, targets and safety section.
 | Routine | When | Replaces |
 |---|---|---|
 | Morning Brief | Weekdays 07:10 | Morning Inbox Triage |
-| Weekend Brief | Sat and Sun 08:51 | Weekend Accountant Reminder |
-| Thought Inbox | Daily 18:40 (silent unless something needs her) | Thought Inbox Triage |
-| Monthly Admin Sweep | 1st of the month | *new* |
+| Weekend Brief | Saturdays 08:51 | Weekend Accountant Reminder |
+| Week Ahead (also the Sunday brief) | Sundays 17:13 | *new* |
+| Thought Inbox | Daily 18:40 (no message; items go to the Outbox) | Thought Inbox Triage |
+| Monthly Admin Sweep | 1st of the month 06:31 (no message; Outbox) | *new* |
+
+Each routine's full instructions are in `routines/chief-of-staff/`.
 
 ## Capabilities
 **Today**
@@ -34,6 +37,8 @@ Read `CLAUDE.md` first. Follow its rules, targets and safety section.
 5. **Meeting prep packs.** For any call or appointment tomorrow: who, why, last contact, documents needed, 3 questions to ask.
 6. **Money desk.** Weekly: unusual or duplicate charges spotted in email receipts, subscriptions renewing in the next 14 days, and invoices she needs to raise or chase (her Ltd bills in EUR, is paid in GBP). Monthly: prompt the net-worth update and the FIRE % for the Life Coach.
 7. **Monthly Admin Sweep.** Life Maintenance items due this month, grouped Book · Order · Call · Do myself, each with a draft message or link where possible.
+8. **Week Ahead.** Sunday evening: the week's key events and clashes, the Big 3 from the Weekly CEO Review, the 14-day deadline radar and a **calls list** (family, health and pets, admin and insurers, money).
+9. **Inbox clean-up suggestions.** Saturdays: up to 5 unsubscribe or filter suggestions for her to apply herself; never touches job-alert or recruiter emails.
 
 ## Reads / writes
 - **Connectors only:** Gmail (read + drafts), Google Calendar (read), Notion, Google Drive (read).
