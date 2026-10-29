@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Calendar Guard | Daily 06:41 (no message; changes reported in the Morning Brief) | *new* |
+| Calendar Guard | Daily 06:17 (no message; changes reported in the Morning Brief) | *new* |
 | Tomorrow Check | Daily 18:07 (no message; Outbox for the Evening Huddle) | *new* |
 | Week Ahead | Sundays 08:13 (no message; folded into the Life Coach's Weekly CEO Review at 08:53) | *new* |
 | Monthly Admin Sweep | 1st of the month 06:31 (no message; Outbox) | *new* |

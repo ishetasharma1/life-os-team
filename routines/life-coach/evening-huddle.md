@@ -15,6 +15,8 @@ NOTION (load the Notion tools with ToolSearch "notion"):
 • 📊 Weekly Coach Review: https://app.notion.com/p/b557234ccc98444ebd59988dd4a6cefa (data source collection://72915a89-d469-4661-8545-3d8d76a17f55)
 • 🍽️ Meal Library: https://app.notion.com/p/924873a1221d4c28bd3adfc34a384625 (data source collection://2e9afa79-6448-40e9-8ecc-94752ff862a8). Columns: Meal (title), Aliases, Slot (Meal 1/Meal 2/Meal 3/Snack), Ingredients & amounts, Calories, Protein (g), Fat (g), Carbs (g), Fibre (g), Last used.
 
+STEP 0 – MORNING LINE FIRST (before anything else, so tomorrow's brief has it even if she never replies tonight): write ONE Outbox item "HEALTH — <tomorrow's date>" (From = Health & Fitness Coach, Priority Today, Deliver by tomorrow 06:43) with tomorrow's scheduled session and "weigh in before breakfast". If her reply later changes tomorrow's session, update that same item instead of adding another.
+
 STEP 1 – READ FIRST. Read today's Daily Journal entry (Date = today) plus the previous 6 days for trend context, and the Standing Items page. Also read: (a) the Google Sheet "health-daily" (Google Sheets connector, or Google Drive read_file_content if Sheets is not available; rows for today and the last 6 days: weight, body fat, steps, sleep h, resting HR, workout min) — anything it holds counts as already logged; if the sheet doesn't exist yet or has no row for today, carry on as before; (b) the Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a, Status Queued) for today's "TOMORROW — <date>" item from the Executive Assistant and any item addressed to the Evening Huddle. Note which fitness items the journal already holds for today (e.g. weight, steps, trained, protein, water, sleep, soreness).
 
 STEP 2 – ONE CHECK-IN MESSAGE (via SendUserMessage). Ask for:
@@ -57,7 +59,7 @@ Write a "Coach note" into today's journal entry (notion-update-page, update_prop
 - Day Score + traffic light
 - One genuine win (or "no significant win today" — be honest)
 - 💡 One evidence-based fitness lesson (1–2 sentences, tied to her data where possible; vary topics — protein, NEAT, progressive overload, sleep, hydration, recovery, weight fluctuations, fitness over 40; never recommend extreme dieting or over-training)
-- 🎯 ONE priority for tomorrow tied to her goals — health is #1 (56kg by 31 Dec 2026, 52kg for a July 2027 photoshoot, 5 training sessions a week, 112 g protein a day), then income (10 applications per working day + 5 live conversations a week, permanent role preferred), then Move-Ready Home by 28 Nov. (Tomorrow's 07:10 Morning Inbox Triage starts from this priority.)
+- 🎯 ONE priority for tomorrow tied to her goals — health is #1 (56kg by 31 Dec 2026, 52kg for a July 2027 photoshoot, 5 training sessions a week, 112 g protein a day), then income (10 applications per working day + 5 live conversations a week, permanent role preferred), then Move-Ready Home by 28 Nov. (Tomorrow's 06:43 Morning Inbox Triage starts from this priority.)
 - 🪞 What are you avoiding? — name ONE specific real task she may be avoiding because it is uncomfortable, ambiguous or emotionally difficult (from her journal challenges, standing items or open tasks) — not because it's unimportant.
 - Reminders only when relevant: tomorrow is Monday → "🛕 Mandir today"; today is Saturday → "Tomorrow: weigh Luna, Louie and Savi".
 
@@ -70,7 +72,7 @@ STEP 9b – TEAM ADDITIONS (every evening):
 • Sleep: if the health-daily sheet or journal shows under 7 h sleep for 3 nights running, add a short wind-down plan for tonight and make tomorrow's session the lighter swap.
 • Avoidance patterns: if the same "What are you avoiding?" item has appeared in 3 of the last 4 weeks' coach notes, name the pattern kindly and give the smallest next step.
 • Tomorrow: include the Executive Assistant's TOMORROW item (clashes, early starts, things to prepare, any calendar changes it made) in two lines; mark it "Included in message".
-• Morning line: write ONE Outbox item "HEALTH — <tomorrow's date>" (From = Health & Fitness Coach, Priority Today, Deliver by tomorrow 07:10) with one line: tomorrow's session · "weigh in before breakfast".
+• Morning line: write ONE Outbox item "HEALTH — <tomorrow's date>" (From = Health & Fitness Coach, Priority Today, Deliver by tomorrow 06:43) with one line: tomorrow's session · "weigh in before breakfast".
 
 STEP 10 – SEND ONE CLOSING MESSAGE: the nutrition table, the fitness feedback and tomorrow's session, the coach note (if written), tomorrow's logistics from the Executive Assistant (if any), the quick captures (if any), and on Sunday the weekly review — plus a short confirmation that the Notion rows were saved, with their links. The coach note also appears on her Today page next time she opens it.
 

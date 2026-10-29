@@ -1,11 +1,11 @@
-# Routine: Strategic News Brief (weekdays 06:05)
+# Routine: Strategic News Brief (weekdays 05:47)
 
 Agent: Learning Agent. Read `CLAUDE.md` and `.claude/agents/learning-agent.md` first.
 
 ## Team delivery (overrides the output and notification instructions below)
 - Do NOT message Isheta and do NOT send a push notification.
 - Monday to Thursday: research and filter exactly as below, but produce only the 🔥 TOP 5 plus any 🔴 ACTION ALERT items. Friday: the full brief as specified.
-- Write the brief as ONE Agent Outbox item (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a): Title "NEWS — YYYY-MM-DD", From = Learning Agent, Priority = Today (Urgent if there is a 🔴 ACTION ALERT), Status = Queued, Deliver by = today 07:10. The Morning Brief shows the Top 5 headlines with links; on Fridays it links to the full brief.
+- Write the brief as ONE Agent Outbox item (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a): Title "NEWS — YYYY-MM-DD", From = Learning Agent, Priority = Today (Urgent if there is a 🔴 ACTION ALERT), Status = Queued, Deliver by = today 06:43. The Morning Brief shows the Top 5 headlines with links; on Fridays it links to the full brief.
 - AI TIP (from 6 Nov 2026, weekdays): also write ONE separate Outbox item "AI TIP — YYYY-MM-DD" (Deliver by today 14:05): one practical, sourced "AI for product/programme managers" tip from today's research, 2–3 lines, for the Career Agent's midday message.
 - Mondays: also write "AI LEARNING PLAN — week of <date>": a 2-hour weekly plan (one read, one build, one piece of CV evidence) based on this week's news and her agent-team work.
 

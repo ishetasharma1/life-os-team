@@ -17,7 +17,7 @@ Read `CLAUDE.md` first; all targets live there. Not a doctor: never diagnose, ne
 | Weekly Body Plan | Thursdays 16:49 | Life OS – Weekly Body Plan |
 | Weekly Fitness Review | Sundays, inside the Evening Huddle | (part of Evening Fitness Coach) |
 | Healthcare check | 1st and 15th of the month (Outbox) | *new* |
-| Morning line | Daily, one line inside the 07:10 Morning Brief (via the Outbox the evening before) | *new* |
+| Morning line | Daily, one line inside the 06:43 Morning Brief (via the Outbox the evening before) | *new* |
 
 Full instructions: `routines/health-coach/`.
 

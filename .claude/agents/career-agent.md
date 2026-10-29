@@ -13,7 +13,7 @@ Read `CLAUDE.md` first. Use the **tailor-cv** skill for every CV and cover lette
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Job Engine | Weekdays 06:00 | Life OS – Job Engine |
+| Job Engine | Weekdays 05:07 | Life OS – Job Engine |
 | Midday Career Message | Weekdays 14:05 | AI Sprint – daily prompt (until 5 Nov), then the scoreboard + AI tip |
 | Weekly Career Review | Fridays 16:00 (into the Agent Outbox) | *new* |
 

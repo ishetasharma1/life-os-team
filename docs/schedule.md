@@ -1,19 +1,19 @@
 # Team schedule (all times Europe/London)
 
-Messages to Isheta: ≤ 4 a day. ✉️ = sends a message · 📬 = Outbox only (shown in the next brief).
+**Weekday mornings: everything is finished and in ☀️ Morning Briefs (Notion) by 07:00.** Messages to Isheta: ≤ 4 a day. ✉️ = sends a message · 📬 = Outbox only (shown in the next brief).
 
 | When | Scheduled task | Agent | Out |
 |---|---|---|---|
 | Daily 05:50 · 11:50 · 17:50 | Home & Car – Sell Items check (on her Mac) | Home & Car | ✉️ only if something needs her |
-| Daily 06:00 | Learning Agent – Language Coach | Learning | 📬 |
-| Weekdays 06:00 | Career Agent – Job Engine (+ 15 pre-tailored applications) | Career | 📬 |
-| Weekdays 06:05 | Learning Agent – News Brief (+ AI tip from 6 Nov) | Learning | 📬 |
-| Daily 06:41 | Executive Assistant – Calendar Guard | EA | 📬 |
+| Weekdays 05:07 | Career Agent – Job Engine (+ 15 pre-tailored applications) | Career | 📬 |
+| Daily 05:41 | Learning Agent – Language Coach | Learning | 📬 |
+| Weekdays 05:47 | Learning Agent – News Brief (+ AI tip from 6 Nov) | Learning | 📬 |
+| Daily 06:17 | Executive Assistant – Calendar Guard | EA | 📬 |
 | Mon 06:45 / 06:49 | Finance – Money Check · Home & Car – Monday Check | Finance · Home & Car | 📬 |
 | Fri 06:47 | Ltd Company – Company Check (month-end pack first Friday) | Ltd | 📬 |
 | Wed 06:53 | Research Agent – Deep Dive | Research | 📬 |
 | 1st 06:31 · 1st & 15th 06:43 · 2nd 06:37 | EA Admin Sweep · Healthcare Check · Finance Monthly Close | EA · Health · Finance | 📬 |
-| Weekdays 07:10 | Chief of Staff – Morning Brief | CoS | ✉️ |
+| Weekdays 06:43 (ready by 07:00) | Chief of Staff – Morning Brief → ☀️ Morning Briefs page in Notion + phone notification | CoS | ✉️ |
 | Sat 07:56 · 08:51 | Home Sprint · Weekend Brief | Home & Car · CoS | ✉️ ✉️ |
 | Sun 08:13 → 08:53 | EA Week Ahead → Life Coach Weekly CEO Review | EA → Life Coach | 📬 → ✉️ |
 | 1st 08:47 | Life Coach – Monthly First | Life Coach | ✉️ |

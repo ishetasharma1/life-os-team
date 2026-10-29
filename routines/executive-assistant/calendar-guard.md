@@ -1,6 +1,6 @@
-# Routine: Calendar Guard (daily 06:41)
+# Routine: Calendar Guard (daily 06:17)
 
-Agent: Executive Assistant. Read `CLAUDE.md` and `.claude/agents/executive-assistant.md` first. Sends NO message: the 07:10 Morning Brief reports the results.
+Agent: Executive Assistant. Read `CLAUDE.md` and `.claude/agents/executive-assistant.md` first. Sends NO message: the 06:43 Morning Brief reports the results.
 
 1. **Read** today's and tomorrow's events on her own calendars (Google Calendar).
 2. **Protect the rhythm:** 05:00 ritual, 06:00 training, 09:00–12:00 Career Power Morning, AI learning, dog walks, meal prep, reviews. If something new clashes with these, move or shorten HER OWN flexible block (never the appointment created by someone else) and log it.

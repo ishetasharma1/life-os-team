@@ -25,6 +25,6 @@ After processing: Status = Processed; populate Type, Next Action, Project and Pr
 
 **Protect existing tasks:** never delete, rename, complete, reprioritise or reschedule an existing task because of a new thought. Link instead of duplicating.
 
-**Messages:** if nothing was in the Inbox, finish silently. Otherwise do NOT message her; put one Agent Outbox item (Priority Today) listing anything set to Needs Review or any new task due within 7 days, for tomorrow's morning brief. Only message directly if something is due tomorrow before 07:10.
+**Messages:** if nothing was in the Inbox, finish silently. Otherwise do NOT message her; put one Agent Outbox item (Priority Today) listing anything set to Needs Review or any new task due within 7 days, for tomorrow's morning brief. Only message directly if something is due tomorrow before 06:43.
 
 Finish with one Agent Run Log row (Routine = thought-inbox).

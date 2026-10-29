@@ -1,6 +1,6 @@
 # Routine: Money check (Mondays 06:45)
 
-Agent: Finance Agent. Read `CLAUDE.md` and `.claude/agents/finance-agent.md` first. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "MONEY — <date>" (From = Finance Agent, Priority This week, or Today if something is urgent; Deliver by today 07:10) for the Morning Brief.
+Agent: Finance Agent. Read `CLAUDE.md` and `.claude/agents/finance-agent.md` first. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "MONEY — <date>" (From = Finance Agent, Priority This week, or Today if something is urgent; Deliver by today 06:43) for the Morning Brief.
 
 1. **"my-accountant" sheet:** read it (Google Sheets). Which of the last 7 days have no transactions logged? List them and ask her to fill them in. Never edit past entries.
 2. **Unusual charges:** from email receipts and bank/card emails in the last 7 days (Gmail, read only): duplicate payments, price rises, refunds not yet received, unknown merchants. Each with the email it comes from.

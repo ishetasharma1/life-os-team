@@ -69,6 +69,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 ## 5. Team protocol
 
 - **Message budget: at most four messages a day across the whole team.** Morning (Chief of Staff), midday (Career Agent), evening (Evening Huddle: Health & Fitness Coach + Life Coach), plus genuine emergencies. Everything else goes to the **Agent Outbox** for the Chief of Staff to fold into the next message.
+- **Ready by 07:00 (weekdays):** every morning agent finishes by 06:40 and always writes its Outbox item, even when there is nothing to report ("Nothing today" plus one line why). The Morning Brief (06:43) saves the full brief and a team roll call to ☀️ Morning Briefs in Notion, so everything is there when she opens her laptop at 07:00.
 - **Run Log:** every run appends one row (agent, routine, date, result, items produced, errors, model).
 - **Feedback Log:** when Isheta corrects an agent, record the correction. Two of the same kind means proposing a rule here.
 - **Team changes:** agents and scheduled tasks change only through 🛠️ Team Improvements. The Team Performance Agent proposes; Isheta approves, rejects or parks; only Approved rows are applied, with a change log.
@@ -101,6 +102,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 | Agent Run Log | `collection://7f336152-e2b5-4d58-9c00-c798dccd0a4d` |
 | Feedback Log | `collection://3cd97634-a291-426a-b90e-6854b1c60230` |
 | Agent Outbox | `collection://3454181f-d803-4574-885e-a0eb0275d89a` |
+| ☀️ Morning Briefs (her 07:00 page) | https://app.notion.com/p/de68acb7274b40f39e599027595950da · view `view://4081ca99-553d-81ea-93be-000cc7ab0257` · writes: `collection://c051f8f8-0527-41d1-9cc7-ed0549e9934d` |
 | 🛠️ Team Improvements (proposals she approves) | `view://eca46cd8-4865-4b59-9753-3ba4fe5422f6` (writes: `collection://7c499485-3aab-4dbd-835c-2ca0731c40d6`) · https://app.notion.com/p/ffcc7cfa4045477481f007b80da86571 |
 | Recruiter CRM | `collection://acd273e4-9a4f-43a2-b372-93fc4eec127f` |
 | 📚 Research Library | `collection://ca567d84-09c7-4a6d-8d5e-ec7341c1442f` |

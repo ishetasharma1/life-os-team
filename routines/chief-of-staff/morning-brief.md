@@ -1,4 +1,4 @@
-# Routine: Morning Brief (weekdays 07:10)
+# Routine: Morning Brief (weekdays 06:43; must be saved by 07:00)
 
 Agent: Chief of Staff. Read `CLAUDE.md` and `.claude/agents/chief-of-staff.md` first.
 
@@ -6,11 +6,12 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 
 ## What other agents already do (don't duplicate)
 - Last night's Evening Huddle set ONE priority for today in the "Coach note" of yesterday's Daily Journal entry. Read it with notion-query-data-sources VIEW mode (Daily Journal view, page_size 2). Start the Top 3 with it.
-- The Career Agent (06:00) handles job roles, the pipeline and recruiter follow-up drafts. For recruiter/job emails: triage and flag them, but only draft a reply if it needs an answer today and isn't a pipeline follow-up.
+- The Career Agent (05:07) handles job roles, the pipeline and recruiter follow-up drafts. For recruiter/job emails: triage and flag them, but only draft a reply if it needs an answer today and isn't a pipeline follow-up.
 - Her day is already time-blocked: do NOT suggest focus blocks or a start sequence.
 - Live.co.uk mail is not connected: don't mention it.
 
 ## Steps
+0. **Team roll call (do this first).** Expected before the brief on weekdays: Job Engine, Language Coach, News Brief, Calendar Guard, Sell Items check (needs her computer awake), last night's Thought Inbox, Tomorrow Check and Evening Huddle morning line, plus any weekly/monthly task scheduled since yesterday's brief (see `docs/schedule.md`). For each, look for today's Run Log row and its Outbox item and mark it: ✅ delivered · ⚪ ran, nothing to report · ⚠️ partial (one-line reason) · ❌ did not run or failed (one-line reason). Never wait for a late agent: report it as ❌ and carry on.
 1. **Gmail:** emails since the previous weekday morning (read whole threads where relevant; don't resurface old emails unless action is due today). Classify 🔴 URGENT – ACTION TODAY · 🟠 IMPORTANT – RESPOND SOON · 🟡 LOW PRIORITY (count/one line) · ⚪ NO ACTION (count only). For each 🔴/🟠: "Sender — Subject: what they want, why it matters, what I need to do". Consolidate duplicates.
 2. **Responses needed today:** only emails that genuinely need a reply today. For each: why, and a short reply in her tone saved as a Gmail DRAFT (never sent). If the right answer is unclear, write "Decision needed from me: …". Never invent facts, dates or commitments.
 3. **Today:** only calendar events that need preparation or are time-critical (appointments, calls, deliveries, collections, claims, Combined Monthly Appointments, Spanish class). Skip routine blocks (rituals, walks, meals, training, Career Power Morning, AI learning, deep work).
@@ -25,6 +26,7 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 
 ## Output (this order, short)
 🌅 GOOD MORNING — [date]
+🤖 TEAM ROLL CALL (one line per agent from step 0; every expected agent is listed, even when it had nothing to report)
 🎯 TOP 3 TODAY (1 = the Evening Huddle priority, then the two most consequential items)
 💪 One line from the Health & Fitness Coach's Outbox item: today's session · weigh in before breakfast
 📧 INBOX (🔴/🟠 one-liners; 🟡/⚪ counts)
@@ -43,6 +45,11 @@ Purpose: before her ☀️ Morning page (07:30) and 💼 Career Power Morning (0
 
 ## Safety
 Never send, delete or archive an email. Never modify the calendar. Never create, complete, reschedule or delete Notion tasks. Never make commitments on her behalf. Flag ambiguity rather than guessing. No generic productivity advice.
+
+## Deliver (both, every weekday, even if every section is empty)
+1. **Notion (the place she opens at 07:00):** create ONE page in ☀️ Morning Briefs (data source collection://c051f8f8-0527-41d1-9cc7-ed0549e9934d): Brief = "Morning Brief — <Thu 29 Oct>", Date = today, Team roll call = the roll-call lines, Agents delivered / Agents expected = counts, Status = All delivered / Gaps; page body = the full brief above, with links to every Outbox item, Gmail draft, Drive folder and Notion record it mentions. Do this before sending anything.
+2. **Message:** the same brief as ONE message (this is the phone notification), ending with the link to today's Notion page.
+3. If anything stops the brief, still create the page with Status = Brief failed and the roll call, so she never opens an empty page.
 
 ## Finish
 Append one row to the Agent Run Log (Agent = Chief of Staff, Routine = morning-brief, Result, Items produced = counts of 🔴/🟠/drafts/radar items, Errors, Model = Sonnet).

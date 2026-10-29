@@ -13,7 +13,7 @@ Read `CLAUDE.md` first. Follow its rules, targets and safety section.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Morning Brief | Weekdays 07:10 | Morning Inbox Triage |
+| Morning Brief | Weekdays 06:43 | Morning Inbox Triage |
 | Weekend Brief | Saturdays 08:51 | Weekend Accountant Reminder |
 | Thought Inbox | Daily 18:40 (no message; items go to the Outbox) | Thought Inbox Triage |
 

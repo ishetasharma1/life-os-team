@@ -13,8 +13,8 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Daily 5 Language Coach | Daily 06:00, no message: Outbox → a short 🗣️ section in the 07:10 Morning Brief (Saturday: Weekend Brief; Sunday: CEO Review) | Daily 5 Language Coach |
-| Strategic News Brief | Weekdays 06:05, no message: Outbox → a 📰 section in the 07:10 Morning Brief; Friday's full brief saved as a Notion page and linked | Daily News Briefing |
+| Daily 5 Language Coach | Daily 05:41, no message: Outbox → a short 🗣️ section in the 06:43 Morning Brief (Saturday: Weekend Brief; Sunday: CEO Review) | Daily 5 Language Coach |
+| Strategic News Brief | Weekdays 05:47, no message: Outbox → a 📰 section in the 06:43 Morning Brief; Friday's full brief saved as a Notion page and linked | Daily News Briefing |
 | Weekly AI Learning Plan | Mondays, into the Agent Outbox | *new (after the AI Sprint ends 5 Nov)* |
 
 ## Capabilities
