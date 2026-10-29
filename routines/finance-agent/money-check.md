@@ -1,4 +1,4 @@
-# Routine: Money check (Mondays 06:45)
+# Routine: Money check (Mondays 06:11)
 
 Agent: Finance Agent. Read `CLAUDE.md` and `.claude/agents/finance-agent.md` first. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "MONEY — <date>" (From = Finance Agent, Priority This week, or Today if something is urgent; Deliver by today 06:43) for the Morning Brief.
 

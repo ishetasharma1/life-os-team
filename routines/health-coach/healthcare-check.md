@@ -1,4 +1,4 @@
-# Routine: Healthcare check (1st and 15th of the month 06:43)
+# Routine: Healthcare check (1st and 15th of the month 06:03)
 
 Agent: Health & Fitness Coach. Read `CLAUDE.md` and `.claude/agents/health-coach.md` first. Not a doctor: never diagnose, never change medication. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "HEALTHCARE — <date>" (Priority This week; Today if a repeat runs out within 7 days or a red flag appears).
 

@@ -1,4 +1,4 @@
-# Routine: Company check (Fridays 06:47; month-end pack on the first Friday of the month)
+# Routine: Company check (Fridays 06:13; month-end pack on the first Friday of the month)
 
 Agent: Ltd Company sub-agent (SP Sharma Ltd). Read `CLAUDE.md`, `.claude/agents/finance-agent.md` and `.claude/agents/ltd-company-agent.md` first. Accountant: Red76. VAT registered. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "LTD — <date>" (Priority This week; Today if something is overdue or due within 7 days).
 

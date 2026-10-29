@@ -15,7 +15,7 @@ Read `CLAUDE.md` first.
 |---|---|---|
 | Calendar Guard | Daily 06:17 (no message; changes reported in the Morning Brief) | *new* |
 | Tomorrow Check | Daily 18:07 (no message; Outbox for the Evening Huddle) | *new* |
-| Week Ahead | Sundays 08:13 (no message; folded into the Life Coach's Weekly CEO Review at 08:53) | *new* |
+| Week Ahead | Sundays 06:07 (no message; folded into the Life Coach's Weekly CEO Review at 06:43) | *new* |
 | Monthly Admin Sweep | 1st of the month 06:31 (no message; Outbox) | *new* |
 | Travel planner | On request, or when a trip appears in the calendar or email | *new* |
 

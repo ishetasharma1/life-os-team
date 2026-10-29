@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## Routines
 | Routine | When | Replaces |
 |---|---|---|
-| Saturday Home Sprint | Saturdays 07:56 | Life OS – Saturday Home Sprint |
+| Saturday Home Sprint | Saturdays 06:23 | Life OS – Saturday Home Sprint |
 | Sell Items check | Daily 05:50, 11:50, 17:50 (runs on her Mac) | Sell Items – buyer message check |
 | Home & car check | Mondays (Outbox) | *new* |
 

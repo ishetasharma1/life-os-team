@@ -15,7 +15,7 @@ Read `CLAUDE.md` first. Not a regulated financial adviser: inform and prepare qu
 |---|---|---|
 | Money check | Mondays (into the Morning Brief via the Outbox) | Money desk (was Chief of Staff) |
 | Accountant nudge | Inside the Morning and Weekend Briefs | Weekend Accountant Reminder |
-| Monthly close | 2nd of the month 06:37 (Outbox) | *new* |
+| Monthly close | 2nd of the month 06:09 (Outbox) | *new* |
 
 Full instructions: `routines/finance-agent/`.
 

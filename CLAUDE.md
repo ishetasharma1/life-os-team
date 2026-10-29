@@ -69,7 +69,7 @@ Operating principle: *Make the default life easy, so the interesting parts of li
 ## 5. Team protocol
 
 - **Message budget: at most four messages a day across the whole team.** Morning (Chief of Staff), midday (Career Agent), evening (Evening Huddle: Health & Fitness Coach + Life Coach), plus genuine emergencies. Everything else goes to the **Agent Outbox** for the Chief of Staff to fold into the next message.
-- **Ready by 07:00 (weekdays):** every morning agent finishes by 06:40 and always writes its Outbox item, even when there is nothing to report ("Nothing today" plus one line why). The Morning Brief (06:43) saves the full brief and a team roll call to ☀️ Morning Briefs in Notion, so everything is there when she opens her laptop at 07:00.
+- **Ready by 07:00 (every day):** every morning agent finishes by 06:40 and always writes its Outbox item, even when there is nothing to report ("Nothing today" plus one line why). The 06:43 brief (Morning Brief on weekdays, Weekend Brief on Saturdays, Weekly CEO Review on Sundays) saves the full brief and a team roll call to ☀️ Morning Briefs in Notion, so everything is there when she opens her laptop at 07:00.
 - **Run Log:** every run appends one row (agent, routine, date, result, items produced, errors, model).
 - **Feedback Log:** when Isheta corrects an agent, record the correction. Two of the same kind means proposing a rule here.
 - **Team changes:** agents and scheduled tasks change only through 🛠️ Team Improvements. The Team Performance Agent proposes; Isheta approves, rejects or parks; only Approved rows are applied, with a change log.

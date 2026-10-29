@@ -1,4 +1,4 @@
-# Routine: Monthly close (2nd of the month 06:37)
+# Routine: Monthly close (2nd of the month 06:09)
 
 Agent: Finance Agent. Read `CLAUDE.md` and `.claude/agents/finance-agent.md` first. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "MONTHLY CLOSE — <month>" (Priority This week) and a page in 📊 Reviews & Coaching only if she has asked for one.
 

@@ -1,4 +1,4 @@
-# Routine: Weekly deep dive (Wednesdays 06:53)
+# Routine: Weekly deep dive (Wednesdays 05:53)
 
 Agent: Research Agent. Read `CLAUDE.md` and `.claude/agents/research-agent.md` first. Sends NO message.
 

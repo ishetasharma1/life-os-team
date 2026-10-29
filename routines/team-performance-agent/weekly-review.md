@@ -26,7 +26,7 @@ Review window: the last 7 days (Saturday to Friday). Old agent names in the logs
    - Before adding, check existing rows: do not repeat a Proposed row (update its evidence instead); do not re-raise a Rejected row unless the evidence has materially changed (say what changed); Parked rows may return after 4 weeks.
    - If nothing is worth changing, add nothing and say so.
 8. **Monthly scorecard (first Friday of the month only).** Create a page "Team scorecard — <Month YYYY>" under the Agent Team page (https://app.notion.com/p/4071ca99553d810186a9ebb9fb92c0bf): one table row per agent (runs, success %, useful %, corrections, key result vs target, keep / change / retire), the month's Done changes and whether they helped, and this agent's own approval rate. Recommendations to change or retire become proposals in step 7.
-9. **Outbox.** ONE item "TEAM REVIEW — <date>" (From = Team Performance Agent, Priority This week, Deliver by Saturday 08:51, Link = the Team Improvements database https://app.notion.com/p/ffcc7cfa4045477481f007b80da86571):
+9. **Outbox.** ONE item "TEAM REVIEW — <date>" (From = Team Performance Agent, Priority This week, Deliver by Saturday 06:43, Link = the Team Improvements database https://app.notion.com/p/ffcc7cfa4045477481f007b80da86571):
    - Line 1: team health in one line (e.g. "41/43 runs succeeded; 1 repeated failure").
    - Up to 5 lines: each new proposal in plain words with its risk.
    - Last line: "N proposals waiting for your decision (Approve / Reject / Park in Team Improvements)".

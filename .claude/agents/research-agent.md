@@ -13,7 +13,7 @@ Read `CLAUDE.md` first.
 ## How requests arrive
 - **From Isheta:** in chat ("research …"), or as an item in the 🧠 Inbox tagged Research.
 - **From other agents:** an Agent Outbox item with the title starting "RESEARCH:" and the question, the decision it supports and the deadline.
-- **Weekly deep dive:** Wednesdays 06:53, 1,000–1,500 words. First choice: the top queued "RESEARCH:" item in the Outbox. If none, rotate weekly: (1) a target company or job market, (2) Spain and relocation, (3) AI for product leaders (one tool, trend or case study usable in interviews and as CV evidence). Output: a Notion Research Library page plus a 5-line summary to the Outbox for the next brief.
+- **Weekly deep dive:** Wednesdays 05:53, 1,000–1,500 words. First choice: the top queued "RESEARCH:" item in the Outbox. If none, rotate weekly: (1) a target company or job market, (2) Spain and relocation, (3) AI for product leaders (one tool, trend or case study usable in interviews and as CV evidence). Output: a Notion Research Library page plus a 5-line summary to the Outbox for the next brief.
 
 Full instructions: `routines/research-agent/`.
 

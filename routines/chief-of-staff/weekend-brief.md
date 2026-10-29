@@ -1,4 +1,4 @@
-# Routine: Weekend Brief (Saturdays 08:51)
+# Routine: Weekend Brief (Saturdays 06:43; must be saved by 07:00)
 
 Agent: Chief of Staff. Read `CLAUDE.md` and `.claude/agents/chief-of-staff.md` first.
 
@@ -14,3 +14,6 @@ ONE short message. Weekends stay light: only what genuinely matters.
 Safety: as in the morning brief. Finish with one Agent Run Log row (Routine = weekend-brief).
 
 Also include the Learning Agent's 🗣️ language lesson from the Outbox (one line per language).
+
+## Deliver by 07:00 (same as the weekday Morning Brief)
+Start with the TEAM ROLL CALL (step 0 of `routines/chief-of-staff/morning-brief.md`, using today's expected agents from `docs/schedule.md`). Then save ONE page to ☀️ Morning Briefs (collection://c051f8f8-0527-41d1-9cc7-ed0549e9934d) with the roll call and the full text of this brief, before sending the message, and end the message with that page's link. If anything fails, still save the page with Status = Brief failed.

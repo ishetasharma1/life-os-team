@@ -1,4 +1,4 @@
-# Routine: Home & car check (Mondays 06:49)
+# Routine: Home & car check (Mondays 06:21)
 
 Agent: Home & Car Agent. Read `CLAUDE.md` and `.claude/agents/home-car-agent.md` first. Reading home only. Sends NO message: writes ONE Agent Outbox (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a) item "HOME & CAR — <date>" (Priority This week; Today if something is due within 7 days).
 

@@ -15,7 +15,7 @@ Read `CLAUDE.md` first. Not an accountant or tax adviser: track, prepare and ask
 ## Routines
 | Routine | When |
 |---|---|
-| Company check | Fridays 06:47 (Outbox) |
+| Company check | Fridays 06:13 (Outbox) |
 | Month-end pack | 1st working day of the month (Outbox) |
 
 Full instructions: `routines/ltd-company-agent/`.

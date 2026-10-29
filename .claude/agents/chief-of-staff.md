@@ -14,7 +14,7 @@ Read `CLAUDE.md` first. Follow its rules, targets and safety section.
 | Routine | When | Replaces |
 |---|---|---|
 | Morning Brief | Weekdays 06:43 | Morning Inbox Triage |
-| Weekend Brief | Saturdays 08:51 | Weekend Accountant Reminder |
+| Weekend Brief | Saturdays 06:43 | Weekend Accountant Reminder |
 | Thought Inbox | Daily 18:40 (no message; items go to the Outbox) | Thought Inbox Triage |
 
 Full instructions: `routines/chief-of-staff/`. Scheduling, travel, appointments, the Week Ahead and the Monthly Admin Sweep belong to the **Executive Assistant**; money belongs to the **Finance Agent**.
