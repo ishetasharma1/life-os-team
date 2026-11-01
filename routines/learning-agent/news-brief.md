@@ -207,7 +207,9 @@ Track what the people below have said or published in the last 7 days: their own
 
 **Anthropic – product & design:** Ami Vora (Head of Product / CPO); Mike Krieger (co-lead, Anthropic Labs; former CPO); Joel Lewenstein (Head of Design); Jenny Wen (Head of Design, Claude Cowork); Cat Wu (Head of Product, Claude Code and Cowork); Diane Penn (Head of Product, AI Research and Labs); Felix Rieseberg (Claude desktop / Cowork engineering); Boris Cherny (creator of Claude Code); Ben Mann (co-founder; co-lead, Anthropic Labs with Mike Krieger); Rahul Patil (CTO).
 
-**Frontier labs & big-tech product leaders:** Nick Turley (Head of ChatGPT, OpenAI); Fidji Simo (CEO of Applications, OpenAI); Kevin Weil (OpenAI); Josh Woodward (Gemini app and Google Labs); Logan Kilpatrick (Google AI Studio / Gemini API); Marily Nika (AI PM, Google); Mustafa Suleyman (CEO, Microsoft AI); Demis Hassabis (CEO, Google DeepMind and Isomorphic Labs).
+**Frontier labs & big-tech product leaders:** Nick Turley (Head of ChatGPT, OpenAI); Fidji Simo (CEO of Applications, OpenAI); Kevin Weil (OpenAI); Josh Woodward (Gemini app and Google Labs); Logan Kilpatrick (Google AI Studio / Gemini API); Marily Nika (AI PM, Google); Mustafa Suleyman (CEO, Microsoft AI); Demis Hassabis (CEO, Google DeepMind and Isomorphic Labs); Greg Brockman (OpenAI co-founder and president; took over product in May 2026, so check the current roles of Simo, Turley and Weil); Alexandr Wang (Meta Chief AI Officer, Meta Superintelligence Labs).
+
+**Other frontier labs & AI infrastructure:** Elon Musk (xAI / Grok, now run inside SpaceX as "SpaceXAI"); Jensen Huang (CEO, Nvidia); Arthur Mensch (CEO, Mistral AI; Europe's leading lab, relevant to the EU AI Act); Aravind Srinivas (CEO, Perplexity); Mira Murati (CEO, Thinking Machines Lab); Ilya Sutskever (CEO, Safe Superintelligence); Liang Wenfeng (CEO, DeepSeek; often silent, so report company papers and releases attributed to him); Yann LeCun (executive chairman, AMI Labs; ex-Meta; the leading LLM sceptic).
 
 **CEOs:** Dario Amodei (Anthropic); Sam Altman (OpenAI); Sundar Pichai (Alphabet/Google); Satya Nadella (Microsoft); Mark Zuckerberg (Meta); Andy Jassy (Amazon); John Ternus (Apple, CEO since 1 Sep 2026; Tim Cook is now executive chairman); Ted Sarandos and Greg Peters (Netflix co-CEOs).
 
@@ -227,7 +229,8 @@ Track what the people below have said or published in the last 7 days: their own
 - Quotes: paraphrase. If a direct quote matters, keep it under 15 words and attribute it exactly. Never invent quotes, and never attribute a statement you could not verify in the original or credible reporting.
 - Check identity carefully: several names are common (Shailesh Sharma, Akash Vaghela, Peter Yang). Use only content from the person described above.
 - Fitness and health voices: include only evidence-based points and flag where a claim is the expert's opinion rather than research. No personal medical or dietary advice.
-- Cap: 10–14 items on Fridays (at most 5 political). If the week was quiet, say so in one line.
+- Cap: 12–15 items on Fridays (at most 5 political).
+- Musk and other figures with high-volume social posting: include only substantive statements on AI strategy, models or policy, not routine posts. If the week was quiet, say so in one line.
 
 ---
 
