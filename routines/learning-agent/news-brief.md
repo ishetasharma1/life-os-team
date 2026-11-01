@@ -205,7 +205,7 @@ Only developments genuinely relevant to Spain, Europe, digital nomadism, remote 
 
 Track what the people below have said or published in the last 7 days: their own blogs, newsletters, podcasts (as host or guest), talks, interviews, company posts, and public posts on X, LinkedIn or Substack. Roles were verified on 1 Nov 2026; if someone has changed role, say so and keep tracking them.
 
-**Anthropic – product & design:** Ami Vora (Head of Product / CPO); Mike Krieger (co-lead, Anthropic Labs; former CPO); Joel Lewenstein (Head of Design); Jenny Wen (Head of Design, Claude Cowork); Cat Wu (Head of Product, Claude Code and Cowork); Diane Penn (Head of Product, AI Research and Labs); Felix Rieseberg (Claude desktop / Cowork engineering); Boris Cherny (creator of Claude Code).
+**Anthropic – product & design:** Ami Vora (Head of Product / CPO); Mike Krieger (co-lead, Anthropic Labs; former CPO); Joel Lewenstein (Head of Design); Jenny Wen (Head of Design, Claude Cowork); Cat Wu (Head of Product, Claude Code and Cowork); Diane Penn (Head of Product, AI Research and Labs); Felix Rieseberg (Claude desktop / Cowork engineering); Boris Cherny (creator of Claude Code); Ben Mann (co-founder; co-lead, Anthropic Labs with Mike Krieger); Rahul Patil (CTO).
 
 **Frontier labs & big-tech product leaders:** Nick Turley (Head of ChatGPT, OpenAI); Fidji Simo (CEO of Applications, OpenAI); Kevin Weil (OpenAI); Josh Woodward (Gemini app and Google Labs); Logan Kilpatrick (Google AI Studio / Gemini API); Marily Nika (AI PM, Google); Mustafa Suleyman (CEO, Microsoft AI); Demis Hassabis (CEO, Google DeepMind and Isomorphic Labs).
 
