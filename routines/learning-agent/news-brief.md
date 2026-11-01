@@ -225,7 +225,7 @@ Track what the people below have said or published in the last 7 days: their own
 
 **Relationships, friendship & mind (Love, Friendships, Family, Mind & Soul goals):** Esther Perel; Drs John & Julie Gottman (Gottman Institute); Logan Ury (dating science, Hinge); Dr Amir Levine (*Attached*); Gottman-adjacent EFT research via ICEEFT (Dr Sue Johnson's work; she died in 2024, so track the institute, never present her as speaking now); Dr Marisa G. Franco (*Platonic*, friendship science); Arthur C. Brooks (happiness research); Oliver Burkeman (*Four Thousand Weeks*).
 
-**Geopolitics (feeds Spain/UK/India/Europe sections as well):** Anne Applebaum; Timothy Snyder; Ian Bremmer (Eurasia Group); Gideon Rachman (FT); Fiona Hill; Ivan Krastev; Timothy Garton Ash; Fareed Zakaria.
+**Geopolitics (feeds Spain/UK/India/Europe sections as well):** Anne Applebaum; Timothy Snyder; Ian Bremmer (Eurasia Group); Gideon Rachman (FT); Fiona Hill; Ivan Krastev; Timothy Garton Ash; Fareed Zakaria; John Mearsheimer (University of Chicago; realist school, for contrast); Niall Ferguson (Hoover Institution; historian, for contrast).
 
 **Economics, investing & FIRE (feeds 💰 FIRE as well):** Mohamed El-Erian; Gillian Tett (FT); Rana Foroohar (FT); Jason Zweig (WSJ); Morgan Housel (*The Psychology of Money*); Ben Carlson (*A Wealth of Common Sense*); Claudia Sahm (economist, Sahm rule); Martin Lewis (MoneySavingExpert; UK rules and deadlines); Pete Matthew (*Meaningful Money*, UK financial planning); Lars Kroijer (UK passive investing).
 
