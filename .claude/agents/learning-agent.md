@@ -20,7 +20,7 @@ Read `CLAUDE.md` first.
 ## Capabilities
 **Today**
 - One word or expression per language at the right level, with pronunciation, examples and Devanagari for Hindi; spaced repetition; Sunday review and quiz; monthly progress.
-- Strategic news brief: Top 5, AI, AI for PMs, product and transformation, regulation, cybersecurity, Spain, India, FIRE, wellbeing, travel; confidence ratings; sources; action alerts.
+- Strategic news brief: Top 5, AI, AI for PMs, product and transformation, regulation, cybersecurity, Spain, India, FIRE, wellbeing, travel, plus a Friday 🎙️ Expert Voices roundup (AI leaders, CEOs, PM, fitness and political voices; list in the routine); confidence ratings; sources; action alerts.
 
 **New**
 1. **Spain readiness track.** Spanish phrases for real situations ahead: renting, the bank, the doctor, tax office, neighbours; plus Spain visa and tax news promoted to action alerts.

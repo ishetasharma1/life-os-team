@@ -7,6 +7,7 @@ Agent: Learning Agent. Read `CLAUDE.md` and `.claude/agents/learning-agent.md` f
 - Monday to Thursday: research and filter exactly as below, but produce only the 🔥 TOP 5 plus any 🔴 ACTION ALERT items. Friday: the full brief as specified.
 - Write the brief as ONE Agent Outbox item (Notion collection://3454181f-d803-4574-885e-a0eb0275d89a): Title "NEWS — YYYY-MM-DD", From = Learning Agent, Priority = Today (Urgent if there is a 🔴 ACTION ALERT), Status = Queued, Deliver by = today 06:43. The Morning Brief shows the Top 5 headlines with links; on Fridays it links to the full brief.
 - AI TIP (from 6 Nov 2026, weekdays): also write ONE separate Outbox item "AI TIP — YYYY-MM-DD" (Deliver by today 14:05): one practical, sourced "AI for product/programme managers" tip from today's research, 2–3 lines, for the Career Agent's midday message.
+- EXPERT VOICES (section 16a): Monday to Thursday, a statement from a person on the Expert Voices list may enter the 🔥 TOP 5 only if it is genuinely major (a strategy shift, a launch, a prediction or warning with decision impact). Friday: include the full weekly 🎙️ EXPERT VOICES roundup covering the last 7 days.
 - Mondays: also write "AI LEARNING PLAN — week of <date>": a 2-hour weekly plan (one read, one build, one piece of CV evidence) based on this week's news and her agent-team work.
 
 ---
@@ -197,6 +198,36 @@ Meaningful fitness research, strength training, walking, yoga, longevity, dog re
 
 ## ✈️ TRAVEL / DIGITAL NOMAD (max 1-2 items)
 Only developments genuinely relevant to Spain, Europe, digital nomadism, remote work, British travellers, significant travel-rule changes (for example EES/ETIAS).
+
+---
+
+# 16a. 🎙️ EXPERT VOICES (weekly roundup on Fridays; added 1 Nov 2026)
+
+Track what the people below have said or published in the last 7 days: their own blogs, newsletters, podcasts (as host or guest), talks, interviews, company posts, and public posts on X, LinkedIn or Substack. Roles were verified on 1 Nov 2026; if someone has changed role, say so and keep tracking them.
+
+**Anthropic – product & design:** Ami Vora (Head of Product / CPO); Mike Krieger (co-lead, Anthropic Labs; former CPO); Joel Lewenstein (Head of Design); Jenny Wen (Head of Design, Claude Cowork); Cat Wu (Head of Product, Claude Code and Cowork); Diane Penn (Head of Product, AI Research and Labs); Felix Rieseberg (Claude desktop / Cowork engineering); Boris Cherny (creator of Claude Code).
+
+**Frontier labs & big-tech product leaders:** Nick Turley (Head of ChatGPT, OpenAI); Fidji Simo (CEO of Applications, OpenAI); Kevin Weil (OpenAI); Josh Woodward (Gemini app and Google Labs); Logan Kilpatrick (Google AI Studio / Gemini API); Marily Nika (AI PM, Google); Mustafa Suleyman (CEO, Microsoft AI); Demis Hassabis (CEO, Google DeepMind and Isomorphic Labs).
+
+**CEOs:** Dario Amodei (Anthropic); Sam Altman (OpenAI); Sundar Pichai (Alphabet/Google); Satya Nadella (Microsoft); Mark Zuckerberg (Meta); Andy Jassy (Amazon); John Ternus (Apple, CEO since 1 Sep 2026; Tim Cook is now executive chairman); Ted Sarandos and Greg Peters (Netflix co-CEOs).
+
+**AI thinkers & commentators:** Kai-Fu Lee (01.AI, Sinovation Ventures); Karen Hao (journalist, author of *Empire of AI*; the critical lens); Andrej Karpathy; Ethan Mollick (*One Useful Thing*); Simon Willison; Andrew Ng (DeepLearning.AI).
+
+**Product management voices:** Aakash Gupta (*Product Growth*); Shailesh Sharma (PM careers and interviews); Nikhyl Singhal (The Skip); Lenny Rachitsky (*Lenny's Newsletter* and podcast); Claire Vo (ChatPRD, *How I AI*); Peter Yang (*Creator Economy*); Shreyas Doshi; Marty Cagan (SVPG).
+
+**Fitness & health (feeds 🐕 WELLBEING as well):** Akash Vaghela (UK coach, nutrition and training); Dr Stacy Sims (exercise and nutrition physiology for women); Dr Peter Attia (longevity, strength); Jeff Nippard (evidence-based training); Dr Rangan Chatterjee (UK GP, lifestyle health).
+
+**Political voices & commentary (feeds 🇮🇳 INDIA and the relevant regional sections as well):** Markus Lanz & Richard David Precht (ZDF podcast *Lanz + Precht*, German, new episode most Fridays: summarise the week's episode in English, with the theme and the main arguments of each); Jon Ossoff (US Senator, Georgia); Dr S. Jaishankar (India's Minister of External Affairs); Mark Carney (Prime Minister of Canada); Petteri Orpo (Prime Minister of Finland); Andy Burnham (UK Prime Minister since 20 Jul 2026); Pedro Sánchez (President of the Government of Spain; also feeds 🇪🇸 SPAIN); Friedrich Merz (Chancellor of Germany).
+
+**Rules**
+- Political voices: report what they said or did, neutrally and accurately. No endorsement, no ranking and no editorial verdict. Where a statement is contested, add one line on the main counter-view or the facts that bear on it. Prioritise statements on AI, technology, trade, the economy, Europe/EU, India's global role and other Tier 1–2 interests over partisan back-and-forth. Verify against official sources (government sites, Senate.gov, MEA.gov.in, pm.gc.ca, valtioneuvosto.fi, gov.uk, lamoncloa.gob.es, bundeskanzler.de) or credible reporting.
+- Only people who said something new and substantive. Skip anyone with nothing notable; never pad. Never list the whole roster.
+- Format per item: **Name (role)**, what they said or argued (1–2 sentences, paraphrased), **So what for me** (one sentence on product, AI-for-PM, career or health relevance, only when genuine), and the source name with a clickable URL to the original post, episode or article.
+- Group by theme when several people discuss the same topic (for example AI agents, design in the AI era, PM careers). Note where experts disagree, such as Karen Hao's critique versus lab leaders' claims.
+- Quotes: paraphrase. If a direct quote matters, keep it under 15 words and attribute it exactly. Never invent quotes, and never attribute a statement you could not verify in the original or credible reporting.
+- Check identity carefully: several names are common (Shailesh Sharma, Akash Vaghela, Peter Yang). Use only content from the person described above.
+- Fitness and health voices: include only evidence-based points and flag where a claim is the expert's opinion rather than research. No personal medical or dietary advice.
+- Cap: 10–14 items on Fridays (at most 5 political). If the week was quiet, say so in one line.
 
 ---
 
