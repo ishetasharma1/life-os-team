@@ -213,13 +213,25 @@ Track what the people below have said or published in the last 7 days: their own
 
 **CEOs:** Dario Amodei (Anthropic); Sam Altman (OpenAI); Sundar Pichai (Alphabet/Google); Satya Nadella (Microsoft); Mark Zuckerberg (Meta); Andy Jassy (Amazon); John Ternus (Apple, CEO since 1 Sep 2026; Tim Cook is now executive chairman); Ted Sarandos and Greg Peters (Netflix co-CEOs).
 
-**AI thinkers & commentators:** Kai-Fu Lee (01.AI, Sinovation Ventures); Karen Hao (journalist, author of *Empire of AI*; the critical lens); Andrej Karpathy; Ethan Mollick (*One Useful Thing*); Simon Willison; Andrew Ng (DeepLearning.AI).
+**AI thinkers & commentators:** Kai-Fu Lee (01.AI, Sinovation Ventures); Karen Hao (journalist, author of *Empire of AI*; the critical lens); Andrej Karpathy; Ethan Mollick (*One Useful Thing*); Simon Willison; Andrew Ng (DeepLearning.AI); Fei-Fei Li (Stanford HAI, World Labs); Geoffrey Hinton (Nobel laureate; AI-risk voice); Yoshua Bengio (Mila, LawZero; AI safety).
 
-**Product management voices:** Aakash Gupta (*Product Growth*); Shailesh Sharma (PM careers and interviews); Nikhyl Singhal (The Skip); Lenny Rachitsky (*Lenny's Newsletter* and podcast); Claire Vo (ChatPRD, *How I AI*); Peter Yang (*Creator Economy*); Shreyas Doshi; Marty Cagan (SVPG).
+**Product management voices:** Aakash Gupta (*Product Growth*); Shailesh Sharma (PM careers and interviews); Nikhyl Singhal (The Skip); Lenny Rachitsky (*Lenny's Newsletter* and podcast); Claire Vo (ChatPRD, *How I AI*); Peter Yang (*Creator Economy*); Shreyas Doshi; Marty Cagan (SVPG); Teresa Torres (continuous discovery); Melissa Perri (product operating models); Gibson Biddle (product strategy, ex-Netflix); Ken Norton (product leadership coaching); John Cutler (product operations).
 
-**Fitness & health (feeds 🐕 WELLBEING as well):** Akash Vaghela (UK coach, nutrition and training); Dr Stacy Sims (exercise and nutrition physiology for women); Dr Peter Attia (longevity, strength); Jeff Nippard (evidence-based training); Dr Rangan Chatterjee (UK GP, lifestyle health).
+**Fitness & health (feeds 🐕 WELLBEING as well):** Akash Vaghela (UK coach, nutrition and training); Dr Stacy Sims (exercise and nutrition physiology for women); Dr Peter Attia (longevity, strength); Jeff Nippard (evidence-based training); Dr Rangan Chatterjee (UK GP, lifestyle health); Dr Layne Norton (nutrition science); Dr Andy Galpin (exercise physiology); Dr Rhonda Patrick (nutrition and longevity research); Dr Gabrielle Lyon (muscle-centric medicine); Dr Eric Helms (evidence-based strength and physique); Menno Henselmans (strength science); Dr Sohee Lee (strength and body composition for women).
 
 **Political voices & commentary (feeds 🇮🇳 INDIA and the relevant regional sections as well):** Markus Lanz & Richard David Precht (ZDF podcast *Lanz + Precht*, German, new episode most Fridays: summarise the week's episode in English, with the theme and the main arguments of each); Jon Ossoff (US Senator, Georgia); Dr S. Jaishankar (India's Minister of External Affairs); Mark Carney (Prime Minister of Canada); Petteri Orpo (Prime Minister of Finland); Andy Burnham (UK Prime Minister since 20 Jul 2026); Pedro Sánchez (President of the Government of Spain; also feeds 🇪🇸 SPAIN); Friedrich Merz (Chancellor of Germany).
+
+**AI safety & governance (feeds ⚖️ AI REGULATION as well):** Timnit Gebru (DAIR); Rumman Chowdhury (Humane Intelligence); Kate Crawford (*Atlas of AI*); Arvind Narayanan (Princeton; *AI Snake Oil*); Meredith Whittaker (President, Signal); Stuart Russell (UC Berkeley; *Human Compatible*).
+
+**Relationships, friendship & mind (Love, Friendships, Family, Mind & Soul goals):** Esther Perel; Drs John & Julie Gottman (Gottman Institute); Logan Ury (dating science, Hinge); Dr Amir Levine (*Attached*); Gottman-adjacent EFT research via ICEEFT (Dr Sue Johnson's work; she died in 2024, so track the institute, never present her as speaking now); Dr Marisa G. Franco (*Platonic*, friendship science); Arthur C. Brooks (happiness research); Oliver Burkeman (*Four Thousand Weeks*).
+
+**Geopolitics (feeds Spain/UK/India/Europe sections as well):** Anne Applebaum; Timothy Snyder; Ian Bremmer (Eurasia Group); Gideon Rachman (FT); Fiona Hill; Ivan Krastev; Timothy Garton Ash; Fareed Zakaria.
+
+**Economics, investing & FIRE (feeds 💰 FIRE as well):** Mohamed El-Erian; Gillian Tett (FT); Rana Foroohar (FT); Jason Zweig (WSJ); Morgan Housel (*The Psychology of Money*); Ben Carlson (*A Wealth of Common Sense*); Claudia Sahm (economist, Sahm rule); Martin Lewis (MoneySavingExpert; UK rules and deadlines); Pete Matthew (*Meaningful Money*, UK financial planning); Lars Kroijer (UK passive investing).
+
+**Business & independent consulting (SP Sharma Ltd, AI advisory goal):** Alan Weiss (*Million Dollar Consulting*, value-based fees); Justin Welsh (solo-business systems).
+
+**Home, food, pets, adventure & service (Home, Pets, Adventure, Service goals; include only genuinely useful, new items):** Joshua Becker (*Becoming Minimalist*; move-ready home); Meera Sodha (vegetarian Indian cooking, *The Guardian*); Yotam Ottolenghi (vegetarian-led cooking and hosting); Dr Zazie Todd (*Companion Animal Psychology*; evidence-based dog and cat behaviour); Rick Steves (European travel); Will MacAskill (effective giving).
 
 **Rules**
 - Political voices: report what they said or did, neutrally and accurately. No endorsement, no ranking and no editorial verdict. Where a statement is contested, add one line on the main counter-view or the facts that bear on it. Prioritise statements on AI, technology, trade, the economy, Europe/EU, India's global role and other Tier 1–2 interests over partisan back-and-forth. Verify against official sources (government sites, Senate.gov, MEA.gov.in, pm.gc.ca, valtioneuvosto.fi, gov.uk, lamoncloa.gob.es, bundeskanzler.de) or credible reporting.
@@ -229,7 +241,8 @@ Track what the people below have said or published in the last 7 days: their own
 - Quotes: paraphrase. If a direct quote matters, keep it under 15 words and attribute it exactly. Never invent quotes, and never attribute a statement you could not verify in the original or credible reporting.
 - Check identity carefully: several names are common (Shailesh Sharma, Akash Vaghela, Peter Yang). Use only content from the person described above.
 - Fitness and health voices: include only evidence-based points and flag where a claim is the expert's opinion rather than research. No personal medical or dietary advice.
-- Cap: 12–15 items on Fridays (at most 5 political).
+- Cap: 15–20 items on Fridays: AI, product and tech voices up to 8; at most 5 political/geopolitical; at most 2 each for fitness, relationships and mind, economics/FIRE, business, and home/food/pets/adventure/service. Rotate so each life area appears at least once a month when there is something genuinely useful.
+- Viewpoint balance: where several tracked commentators share a perspective (for example on Russia, China or US policy), add one line on the strongest credible opposing view.
 - Musk and other figures with high-volume social posting: include only substantive statements on AI strategy, models or policy, not routine posts. If the week was quiet, say so in one line.
 
 ---
